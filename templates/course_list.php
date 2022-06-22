@@ -12,8 +12,8 @@ include_once 'util.php';
   </div>
 
   <div class="course-date">
-    <div><?= formatDate($course->date_start) ?></div>
-    <div><small><?= $course->dates[0]->time_start ?>-<?= $course->dates[0]->time_end ?></small></div>
+    <div><?= formatDate($course->date_start) ?> - <?= formatDate($course->date_end) ?></div>
+    <div><small><?= formatTime($course->dates[0]->time_start) ?>-<?= formatTime($course->dates[0]->time_end) ?></small></div>
   </div>
 
   <div class="course-booking">

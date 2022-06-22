@@ -69,6 +69,11 @@ nav li {
   margin-left: 1em;
 }
 
+nav li ul {
+  margin-top: 1em;
+  margin-left: 0.5em;
+}
+
 nav a {
   color: black;
   text-decoration: none;
@@ -113,5 +118,29 @@ nav a:hover {
 
   nav a:hover::after {
     transform: scale(1, 1);
+  }
+
+  /* dropdown */
+  nav ul ul {
+    display: none;
+    position: absolute;
+    top: 80px;
+    margin: 0;
+
+    background: grey;
+
+    box-shadow: 0 0 0.5em grey;
+  }
+
+  nav ul li:hover > ul {
+      display: inherit;
+  }
+
+  nav ul ul li {
+    padding: 12px 18px;
+    margin: 0;
+
+    position: relative;
+    background: white;
   }
 }

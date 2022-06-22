@@ -49,6 +49,6 @@ function formatDate($date) {
 
 function formatTime($time) {
   $dt = new DateTime($time);
-  return $dt->format("H:m");
+  return $dt->format("H:i");
 }
 ?>

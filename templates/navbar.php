@@ -11,7 +11,17 @@
 
   <nav>
     <ul>
-      <li><a href="courses.php">Kurse</a></li>
+      <li><a href="courses.php">Kurse</a>
+        <ul>
+          <li>Some Text here</li>
+          <li><a href="courses.php#rueckbildung">Rückbildungskurse</a></li>
+          <li><a href="courses.php#vorbereitung">Geburtsvorbereitung</a></li>
+          <li><a href="courses.php#babymassage">Babymassage</a></li>
+          <li><a href="courses.php#akupunktur">Akupunktur</a></li>
+          <li><a href="courses.php#notfallkurs">Baby- und Kindernotfallkurse</a></li>
+          <li><a href="courses.php#weitere">Weitere Kurse</a></li>
+        </ul>
+      </li>
       <li><a href="index.php#team">Team</a></li>
       <li><a href="index.php#contact">Kontakt</a></li>
     </ul>
