@@ -1,5 +1,5 @@
 <?php
-$title = 'Hebammenpraxis Oststadt';
+$title = 'Unser Leistungsangebot';
 include 'templates/head.php';
 ?>
 

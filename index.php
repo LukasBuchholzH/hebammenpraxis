@@ -22,7 +22,7 @@ include 'templates/head.php';
         bieten wir Hausbesuche sowie individuelle Termine in der Praxis, Rückbildung 
         in Kursen oder Einzeltraining an.
       </p>
-      <a href="courses.php" class="btn">Zu den Kursen</a>
+      <a href="courses<?= $suffix ?>" class="btn">Zu den Kursen</a>
     </div>
 
     <div class="landing-item">

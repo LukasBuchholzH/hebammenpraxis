@@ -1,3 +1,10 @@
+<?php
+if (getenv('DEPLOY')) {
+  $suffix = '.html';
+} else {
+  $suffix = '.php';
+}
+?>
 <!DOCTYPE html>
 <html lang="de" dir="ltr">
 
