@@ -1,7 +1,11 @@
 <?php
 include_once 'templates/util.php'; 
 
-$courses = loadCourses(True, False);
+if (getenv('DOWNLOAD_COURSES')) {
+  $courses = loadCourses(False, True);
+} else {
+  $courses = loadCourses(True, False);
+}
 
 $courses_rueckbildung = array();
 $courses_babymassage = array();

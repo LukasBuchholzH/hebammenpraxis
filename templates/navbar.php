@@ -13,7 +13,6 @@
     <ul>
       <li><a href="courses.php">Kurse</a>
         <ul>
-          <li>Some Text here</li>
           <li><a href="courses.php#rueckbildung">Rückbildungskurse</a></li>
           <li><a href="courses.php#vorbereitung">Geburtsvorbereitung</a></li>
           <li><a href="courses.php#babymassage">Babymassage</a></li>
