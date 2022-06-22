@@ -1,0 +1,64 @@
+h1 {
+  font-size: 1.8rem;
+  text-align: center;
+}
+
+h2 {
+  margin-top: 64px;
+  color: rgba(39, 167, 177, 1.0);
+}
+
+h3 {
+  margin-top: 52px;
+  margin-bottom: 42px;
+
+}
+
+h4 {
+  margin: 0;
+}
+  
+.course-dates {
+  display: grid;
+
+  grid-template-columns: 1fr 1fr;
+
+  align-items: center;
+  row-gap: 32px;
+
+  margin-bottom: 48px;
+}
+
+.course-separator {
+  background: rgb(237, 243, 243);
+  height: 2px;
+  width: 100%;
+
+  grid-column: 1 / span 2;
+}
+
+.course-title {
+  grid-column: 1 / span 2;
+}
+
+.course-booking {
+  justify-self: end;
+}
+
+@media only screen and (min-width: 600px) {
+.course-dates {
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+
+  margin-left: 12px;
+  margin-right: 12px;
+}
+
+.course-separator {
+  background: rgb(237, 243, 243);
+  height: 2px;
+  width: 100%;
+
+  grid-column: 1 / span 4;
+}
+
+}

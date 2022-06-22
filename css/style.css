@@ -1,0 +1,208 @@
+/* Setup */
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+@font-face {
+    font-family: opensans;
+    src: url(open-sans.regular.ttf);
+}
+@font-face {
+    font-family: opensanslight;
+    src: url(open-sans.light.ttf);
+}
+
+
+html {
+  font-family: opensanslight;
+}
+
+body {
+  margin: 0;
+  font-size: 1.1em;
+}
+
+main {
+  margin: 0 1em;
+}
+
+
+section {
+  max-width: 1080px;
+  margin: auto;
+}
+
+
+.btn {
+    color: #fff;
+    background-color: rgb(39, 167, 177);
+    text-decoration: none;
+    padding: 10px 18px;
+    border-radius: 5px;
+
+    margin-left: auto;
+
+    /*border: 0;
+    font-size: 20px;
+    */
+}
+
+.btn:hover {
+    background-color: rgb(59, 200, 211);
+}
+
+footer {
+    width: 100%;
+    text-align: center;
+    padding: 20px 0;
+    background-color: rgb(237, 243, 243);
+}
+
+.landing {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+    gap: 150px 0;
+}
+
+.landing-item {
+    margin: 1.4em 1em;
+    display: flex;
+    flex-direction: column;
+
+    max-width: 100%;
+}
+
+@media screen and (min-width: 660px) {
+    .landing-item {
+        max-width: 45%;
+    }
+}
+
+#email {
+    font-size: 1.4em;
+    text-align: center;
+}
+
+#address {
+    font-size: 1.2em;
+    text-align: center;
+}
+
+#contact-info {
+    width: 600px;
+    max-width: 85%;
+
+    margin: auto;
+    font-size: 1.2em;
+
+    background-color: rgb(237, 243, 243);
+
+    padding: 1.2em;
+
+    margin-top: 4em;
+    margin-bottom: 4em;
+}
+
+
+/* Layout of 'team' section */
+#team {
+  max-width: 100%;
+}
+
+#profile-header-1    { grid-area: profile-header-1; }
+#profile-cv-1        { grid-area: profile-cv-1; }
+#profile-tasks-1     { grid-area: profile-tasks-1; }
+#profile-trainings-1 { grid-area: profile-trainings-1; }
+#profile-areas-1     { grid-area: profile-areas-1; }
+
+#profile-header-2    { grid-area: profile-header-2; }
+#profile-cv-2        { grid-area: profile-cv-2; }
+#profile-tasks-2     { grid-area: profile-tasks-2; }
+#profile-trainings-2 { grid-area: profile-trainings-2; }
+#profile-areas-2     { grid-area: profile-areas-2; }
+
+#profile-header-3    { grid-area: profile-header-3; }
+#profile-cv-3        { grid-area: profile-cv-3; }
+#profile-tasks-3     { grid-area: profile-tasks-3; }
+#profile-trainings-3 { grid-area: profile-trainings-3; }
+#profile-areas-3     { grid-area: profile-areas-3; }
+
+#profile-header-4    { grid-area: profile-header-4; }
+#profile-cv-4        { grid-area: profile-cv-4; }
+#profile-tasks-4     { grid-area: profile-tasks-4; }
+#profile-trainings-4 { grid-area: profile-trainings-4; }
+#profile-areas-4     { grid-area: profile-areas-4; }
+
+.grid {
+  display: grid;
+  grid-column-gap: 48px;
+  grid-template-areas: 
+    "profile-header-1   "
+    "profile-cv-1       "
+    "profile-tasks-1    "
+    "profile-trainings-1"
+    "profile-areas-1    "
+    "profile-header-2   "
+    "profile-cv-2       "
+    "profile-tasks-2    "
+    "profile-trainings-2"
+    "profile-areas-2    "
+    "profile-header-3   "
+    "profile-cv-3       "
+    "profile-tasks-3    "
+    "profile-trainings-3"
+    "profile-areas-3    "
+    "profile-header-4   "
+    "profile-cv-4       "
+    "profile-tasks-4    "
+    "profile-trainings-4"
+    "profile-areas-4    ";
+
+  width: 100%;
+}
+
+#profile-areas-1 { margin-bottom: 100px; }
+#profile-areas-2 { margin-bottom: 100px; }
+#profile-areas-3 { margin-bottom: 100px; }
+
+@media screen and (min-width: 600px) {
+  .grid {
+    grid-template-areas: 
+      "profile-header-1    profile-header-2   "
+      "profile-cv-1        profile-cv-2       "
+      "profile-tasks-1     profile-tasks-2    "
+      "profile-trainings-1 profile-trainings-2"
+      "profile-areas-1     profile-areas-2"
+      "profile-header-3    profile-header-4   "
+      "profile-cv-3        profile-cv-4       "
+      "profile-tasks-3     profile-tasks-4    "
+      "profile-trainings-3 profile-trainings-4"
+      "profile-areas-3     profile-areas-4";
+  }
+
+  #profile-areas-3 { margin-bottom: 0; }
+}
+
+@media screen and (min-width: 1360px) {
+  .grid {
+    grid-template-areas: 
+      "profile-header-1    profile-header-2    profile-header-3    profile-header-4"
+      "profile-cv-1        profile-cv-2        profile-cv-3        profile-cv-4"
+      "profile-tasks-1     profile-tasks-2     profile-tasks-3     profile-tasks-4"
+      "profile-trainings-1 profile-trainings-2 profile-trainings-3 profile-trainings-4"
+      "profile-areas-1     profile-areas-2     profile-areas-3     profile-areas-4";
+  }
+  #profile-areas-1 { margin-bottom: 0; }
+  #profile-areas-2 { margin-bottom: 0; }
+}
+
+.image-container {
+  text-align: center;
+}
+
+.image-container img {
+  width: 90%;
+  height: auto;
+}

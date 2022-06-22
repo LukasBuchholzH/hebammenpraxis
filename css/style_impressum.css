@@ -1,0 +1,35 @@
+@font-face {
+    font-family: opensanslight;
+    src: url(open-sans.light.ttf);
+}
+
+body {
+    margin: 0;
+    font-family: opensanslight;
+    min-height: 100vh;
+
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    display: flex;
+
+    justify-content: center;
+}
+
+header img {
+    max-height: 240px;
+}
+
+main {
+    max-width: 800px;
+    margin: auto;
+}
+
+footer {
+    width: 100%;
+    text-align: center;
+    padding: 20px 0;
+    background-color: rgb(237, 243, 243);
+}
