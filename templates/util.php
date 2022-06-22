@@ -1,5 +1,9 @@
 <?php
 
+function lesserStartDate($c1, $c2) {
+  return (new DateTime($c1->date_start) < new DateTime($c2->date_start)) ? -1 : 1;
+}
+
 function makeSignupUrl($courseid) {
   $url = 'https://hebammenpraxisoststadt.hebamio.de/anmeldung?reason=course-';
   return $url . $courseid;
@@ -27,6 +31,9 @@ function loadCourses($save, $loadcache) {
   } else {
     $course_details = json_decode(file_get_contents('courses-cache.json'));
   }
+
+  uasort($course_details, 'lesserStartDate');
+
   return $course_details;
 }
 

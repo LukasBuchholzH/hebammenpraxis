@@ -11,6 +11,14 @@
 
   <nav>
     <ul>
+      <li><a href="leistungen.php">Leistungen</a>
+        <ul>
+          <li><a href="leistungen.php#vorsorge">Schwangerenvorsorge</a></li>
+          <li><a href="leistungen.php#beschwerden">Hilfe bei Schwangerschaftsbeschwerden</a></li>
+          <li><a href="leistungen.php#wochenbett">Wochenbettbetreuung & Stillberatung</a></li>
+          <li><a href="leistungen.php#zusatzleistungen">Zusatzleistungen</a></li>
+        </ul>
+      </li>
       <li><a href="courses.php">Kurse</a>
         <ul>
           <li><a href="courses.php#rueckbildung">Rückbildungskurse</a></li>

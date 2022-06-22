@@ -57,6 +57,7 @@ include 'templates/head.php';
     </div>
   </section>
 
+
   <section id="team">
     <h2>Unser Team</h2>
     <div class="grid">
