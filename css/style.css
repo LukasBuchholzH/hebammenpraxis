@@ -215,3 +215,34 @@ footer {
   width: 90%;
   height: auto;
 }
+
+/* Gallery style */
+
+.gallery {
+  display: grid;
+  align-items: center;
+}
+
+.gallery-img {
+  max-width: 100%;
+}
+
+
+@media screen and (min-width: 800px) {
+  .gallery {
+    column-gap: 2em;
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+
+  .horizontal-img-right {
+    grid-column: 2 / 4;
+  }
+
+  .horizontal-img-left {
+    grid-column: 1 / 3;
+  }
+
+  .horizontal-img-full {
+    grid-column: 1 / 4;
+  }
+}
