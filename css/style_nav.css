@@ -84,7 +84,7 @@ nav a:hover {
   color: rgb(39, 167, 177);
 }
 
-@media screen and (min-width: 640px) {
+@media screen and (min-width: 900px) {
   .nav-toggle-label { display: none; }
 
   header { 

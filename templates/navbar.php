@@ -16,16 +16,24 @@
           <li><a href="leistungen<?= $suffix ?>#vorsorge">Schwangerenvorsorge</a></li>
           <li><a href="leistungen<?= $suffix ?>#beschwerden">Hilfe bei Schwangerschaftsbeschwerden</a></li>
           <li><a href="leistungen<?= $suffix ?>#wochenbett">Wochenbettbetreuung & Stillberatung</a></li>
-          <li><a href="leistungen<?= $suffix ?>#zusatzleistungen">Zusatzleistungen</a></li>
+          <li><span>Zusatzleistungen:</span></li>
+          <li><a href="leistungen<?= $suffix ?>#leistung-akupunktur">Akupunktur</a></li>
+          <li><a href="leistungen<?= $suffix ?>#leistung-hypnose">Hypnose</a></li>
+          <li><a href="leistungen<?= $suffix ?>#leistung-ktaping">K-Taping©</a>
         </ul>
       </li>
       <li><a href="courses<?= $suffix ?>">Kurse</a>
         <ul>
           <li><a href="courses<?= $suffix ?>#rueckbildung">Rückbildungskurse</a></li>
-          <li><a href="courses<?= $suffix ?>#vorbereitung">Geburtsvorbereitung</a></li>
-          <li><a href="courses<?= $suffix ?>#babymassage">Babymassage</a></li>
+          <li><a href="courses<?= $suffix ?>#geburtsvorbereitung">Geburtsvorbereitung</a></li>
+          <li><a href="courses<?= $suffix ?>#babymassage" >Babymasage</a></li>
           <li><a href="courses<?= $suffix ?>#akupunktur">Akupunktur</a></li>
-          <li><a href="courses<?= $suffix ?>#notfallkurs">Baby- und Kindernotfallkurse</a></li>
+          <li><a href="courses<?= $suffix ?>#notfallkurs">Baby- und Kindernotfallkurs</a></li>
+          <li><a href="courses<?= $suffix ?>#barre">Barré Mom Fit</a></li>
+          <li><a href="courses<?= $suffix ?>#mamaworkout">Mamaworkout</a></li>
+          <li><a href="courses<?= $suffix ?>#goodmorning">Good Morning Beckenboden</a></li>
+          <li><a href="courses<?= $suffix ?>#stillvorbereitung">Stillvorbereitungskurs</a></li>
+          <li><a href="courses<?= $suffix ?>#breikost">B(r)eikost Workshop</a></li>
           <li><a href="courses<?= $suffix ?>#weitere">Weitere Kurse</a></li>
         </ul>
       </li>

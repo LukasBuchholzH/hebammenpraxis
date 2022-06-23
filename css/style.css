@@ -32,6 +32,14 @@ section {
   margin: auto;
 }
 
+.course-list {
+  margin-top: 5em;
+}
+
+.course-details {
+  margin-bottom: 2em;
+}
+
 
 .btn {
     color: #fff;
@@ -56,6 +64,7 @@ footer {
     text-align: center;
     padding: 20px 0;
     background-color: rgb(237, 243, 243);
+    margin-top: 2em;
 }
 
 .landing {

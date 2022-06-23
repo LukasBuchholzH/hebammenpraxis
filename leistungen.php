@@ -116,7 +116,66 @@ include 'templates/head.php';
 
     <h2 id="zusatzleistungen">Zusatzleistungen</h2>
     
-    <h3>Behandlung durch K-Taping©</h3>
+    <h3 id="leistung-akupunktur">Akupunktursprechstunde</h3>
+
+    <h4>bei Schwangerschaftsbeschwerden</h4>
+
+    <p>
+    Akupunktur ist eine von der Weltgesundheitsorganisation (WHO) anerkannte Methode zur Behandlung vieler Beschwerden und Krankheitsbilder.
+    </p>
+
+    <p>
+    In der Schwangerschaft ist diese Methode besonders interessant, weil dabei die Selbstheilungs- und Regulierungsprozesse im Körper angeregt und keine Medikamente benötigt werden.
+    </p>
+
+    <p>
+    Besonders gute Behandlungserfolge gibt es bei Übelkeit mit oder ohne Erbrechen in der Frühschwangerschaft, Karpaltunnelsyndrom,
+    Wassereinlagerungen in den Beinen und Füßen, Rücken- und Ischiasschmerzen, Verspannungen, Schlafstörungen, allgemeine Gereiztheit und zum psychischen Ausgleich.
+    </p>
+
+    <h4>zur Geburtsvorbereitung</h4>
+    <p>
+    Nach dem Mannheimer Schema kann ab der 36. SSW begonnen werden. 
+    Erwiesenermaßen hat die geburtsvorbereitende Akupunktur nach 2-3 Sitzungen eine verkürzende Wirkung auf die Dauer der Eröffnungsphase während der Geburt. 
+    Die geburtsvorbereitende Akupunktur alleine führt nicht zu einer früheren Geburt, eine Wehen-anregende Akupunktur kann aber zusätzlich angeboten werden. 
+    </p>
+
+    <p>
+    Pro Sitzung benötigen wir ca 30 Minuten und ich erhebe eine Zuzahlung von 15€, die entweder bar oder auf Rechnung bezahlt werden kann.
+    </p>
+
+    <a href="courses<?= $suffix ?>#akupunktur">Akkupunktur Termin buchen</a>
+
+    <h3 id="leistung-hypnose">Hypnose</h3>
+
+    <p>
+    Das Erleben einer Trance kann mit dem angenehmen Zustand kurz vor dem Einschlafen verglichen werden, wenn man eher in Bildern denkt und der Körper zur Ruhe kommt. 
+    Physiologisch kommt es zu einer Entspannungsreaktion: Herzschlag und Atmung verlangsamen sich, der Blutdruck sinkt.
+    </p>
+
+    <p>
+    Mental erleben Menschen in Trance intensive Gelassenheit, Ausgeglichenheit, Lebensmut, Kraft, Sicherheit oder Beruhigung. 
+    Das rationale Denken tritt in den Hintergrund, während eine bildhafte Informationsverarbeitung einsetzt und Vorstellungen auf allen Sinneskanälen aktiviert werden.
+    Die Aufmerksamkeit wird auf das innere Erleben gerichtet, während die Wahrnehmung der Außenwelt eher in den Hintergrund tritt. 
+    Durch all diese Phänomene ist es möglich, durch wohltuende Vorstellungen Ressourcen des Menschen zu aktivieren, die ihn in die Lage versetzen, körpereigene Kräfte zu aktivieren, das Schmerzerleben zu beeinflussen, Sicherheit und Zuversicht angesichts bevorstehender herausfordernder Situationen zu erleben.
+    </p>
+
+    <p>
+    In der Trance behalten Menschen die Kontrolle über sich und können, wenn sie wollen, den hypnotischen Prozess jederzeit unterbrechen oder beenden.
+    In der Regel kann man sich im Anschluss an die Hypnose an das Erleben während der Trance erinnern.
+    </p>
+    
+    <p>
+    Hypnose eignet sich wunderbar als Ergänzung zu allen Themen rund um die Geburt.
+    Mich fasziniert immer wieder die Individualität einer jeden Sitzung!
+    </p>
+
+    <p>Anfragen gerne unter: <a href="mailto:hebamme@mariawinkler.de">hebamme@mariawinkler.de</a></p>
+
+    <p>Preis pro Stunde: 80€</p>
+    
+    
+    <h3 id="leistung-ktaping">Behandlung durch K-Taping©</h3>
     <p>
       Mithilfe von bestimmten Anlegetechniken lassen sich durch das Aufkleben von Kinesio-Tape
       auf die Haut viele Symptome in der Schwangerschaft und auch im Wochenbett behandeln und lindern.
@@ -126,7 +185,6 @@ include 'templates/head.php';
       Gerne binde ich dies in meine Hebammenarbeit ein und berate sie dazu.
       Diese Leistung wird jedoch nicht von der Krankenkasse übernommen.
     </p>
-
   </section>
 
 </main>

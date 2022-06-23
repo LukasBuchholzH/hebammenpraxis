@@ -7,22 +7,38 @@ if (getenv('DOWNLOAD_COURSES')) {
   $courses = loadCourses(True, False);
 }
 
-$courses_rueckbildung = array();
-$courses_babymassage = array();
-$courses_vorbereitung = array();
-$courses_akupunktur = array();
-$courses_notfallkurs = array();
-$courses_weitere = array();
+function initCourse($title, $keyword) {
+  return array(
+    "title" => $title,
+    "keyword" => $keyword,
+    "courses" => array());
+}
 
+$courselist = array(
+  "rueckbildung" => initCourse('Rückbildungskurse', 'Rückbildung'),
+  "geburtsvorbereitung" => initCourse('Geburtsvorbereitung', 'Geburtsvorbereitung'),
+  "babymassage"  => initCourse('Babymasage', 'Babymassage'),
+  "akupunktur" => initCourse('Akupunktur', 'Akupunktur'),
+  "notfallkurs" => initCourse('Baby- und Kindernotfallkurs', 'Kindernotfallkurs'),
+  "barre" => initCourse('Barré Mom Fit', 'Barr'),
+  "mamaworkout" => initCourse('Mamaworkout', 'Mamaworkout'),
+  "goodmorning" => initCourse('Good Morning Beckenboden', 'Good Morning Beckenboden'),
+  "stillvorbereitung" => initCourse('Stillvorbereitungskurs', 'Stillvorbereitung'),
+  "breikost" => initCourse('B(r)eikost Workshop', 'B(r)eikost Workshop'),
+  "weitere" => initCourse('Weitere Kurse', '')
+
+);
 
 foreach ($courses as $course) {
-  if (str_contains($course->title, 'Rückbildung'))              { array_push($courses_rueckbildung, $course); }
-  else if (str_contains($course->title, 'Babymassage'))         { array_push($courses_babymassage, $course); }
-  else if (str_contains($course->title, 'Geburtsvorbereitung')) { array_push($courses_vorbereitung, $course); }
-  else if (str_contains($course->title, 'Akupunktur'))          { array_push($courses_akupunktur, $course); }
-  else if (str_contains($course->title, 'Kindernotfall'))       { array_push($courses_notfallkurs, $course); }
-  else                                                          { array_push($courses_weitere, $course); }
+  foreach (array_keys($courselist) as $courseid) {
+    $keyword = $courselist[$courseid]['keyword'];
+    if (str_contains($course->title, $keyword)) {
+      array_push($courselist[$courseid]['courses'], $course);
+      break;
+    }
+  }
 }
+
 ?>
 
 <?php 
@@ -47,89 +63,11 @@ include 'templates/head.php';
   </p>
 </section>
 
-<section id="rueckbildung">
-<h2>Rückbildungskurse</h2>
-
-<p>Dies ist die Beschreibung der Rückbildungskurse die wir anbieten.</p>
-
-<h3>Aktuelle Termine</h3>
-
 <?php 
-$courses = $courses_rueckbildung;
-include 'templates/course_list.php';
+  foreach (array_keys($courselist) as $courseid) {
+    include "templates/course_list.php";
+  }
 ?>
-</section>
-
-
-<section id="vorbereitung">
-<h2>Geburtsvorbereitung</h2>
-
-<p>
-  3 Abende für euch als Schwangere mit dem zweiten (oder weiteren) Kind. 
-  Kennenlernen von anderen in ähnlicher Situation, Körperarbeit zur Wahrnehmung der meist nebenherlaufenden Schwangerschaft und zur Vorbereitung auf diese neue Geburt, ein Rückblick auf die letzte Geburt und ein Einstimmen auf die Zeit mit mehreren Kindern zuhause Wir empfehlen auf Grund der aktuellen Covid-19 Lage eine medizinische Maske in unseren Räumlichkeiten und erbitten einen tagesaktuellen Schnelltest.
-</p>
-
-<h3>Aktuelle Termine</h3>
-
-<?php 
-$courses = $courses_vorbereitung;
-include 'templates/course_list.php';
-?>
-</section>
-
-
-<section id="babymassage">
-<h2>Babymassage</h2>
-
-<p>Dies ist die Beschreibung der Babymassage die wir anbieten.</p>
-
-<h3>Aktuelle Termine</h3>
-
-<?php 
-$courses = $courses_babymassage;
-include 'templates/course_list.php';
-?>
-</section>
- 
-
-<section id="akupunktur">
-<h2>Akupunktur</h2>
-
-<p>Dies ist die Beschreibung der Akupunktur die wir anbieten.</p>
-
-<h3>Aktuelle Termine</h3>
-
-<?php 
-$courses = $courses_akupunktur;
-include 'templates/course_list.php';
-?>
-</section>
-
-
-<section id="notfallkurs">
-  <h2>Baby- und Kindernotfallkurs</h2>
-
-  <p>Dies ist die Beschreibung der Akupunktur die wir anbieten.</p>
-
-  <h3>Aktuelle Termine</h3>
-
-  <?php 
-    $courses = $courses_notfallkurs;
-    include 'templates/course_list.php';
-  ?>
-</section>
-
-
-<section id="weitere">
-<h2>Weitere Kurse</h2>
-
-<h3>Aktuelle Termine</h3>
-
-<?php 
-$courses = $courses_weitere;
-include 'templates/course_list.php';
-?>
-</section>
 
 </main>
 
