@@ -118,6 +118,22 @@ include 'templates/head.php';
       Kontaktieren Sie mich gerne weiterhin, ich begleite Sie gerne individuelle.
     </p>
 
+    <h3>Beikostberatung</h3>
+
+    <p>Wann und wie geht es weiter nach der Milch?
+      Mit rund 6 Monaten sind die Kinder bereit für die Einführung von Beikost nach Bedarf. Dabei können viele Fragen auftreten:
+      <ul>
+        <li> Wann ist mein Baby für die Beikost bereit und wie erkenne ich das?</li>
+        <li> Welche Wege der Beikosteinführung gibt es?</li>
+        <li> Welche Nahrungsmittel kann ich wann meinem Kind geben?</li>
+        <li> Welche Lebensmittel sind im ersten Lebensjahr ungeeignet?</li>
+      </ul>
+    </p>
+
+    <p>
+      Jede Frau hat die Möglichkeit im Rahmen der Hebammenbegleitung ein Termin für ein Beikostgespräch zu vereinbaren. 
+      Zudem gibt es die Möglichkeit den Kurs "B(r)eikost" in der Hebammenpraxis Oststadt als Zusatzleistung zu besuchen.
+    </p>
   </section>
 
   <section id="leistung-zusatz">
