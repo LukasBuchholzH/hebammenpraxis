@@ -90,7 +90,7 @@ footer {
 }
 
 #email {
-    font-size: 1.4em;
+    font-size: 1.1em;
     text-align: center;
 }
 
@@ -229,6 +229,11 @@ footer {
 
 
 @media screen and (min-width: 800px) {
+  #email {
+      font-size: 1.4em;
+      text-align: center;
+  }
+
   .gallery {
     column-gap: 2em;
     grid-template-columns: 1fr 1fr 1fr;
@@ -246,3 +251,4 @@ footer {
     grid-column: 1 / 4;
   }
 }
+

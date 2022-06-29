@@ -44,7 +44,7 @@
           <li><a href="courses<?= $suffix ?>#weitere">Weitere Kurse</a></li>
         </ul>
       </li>
-      <li><a href="index<?= $suffix ?>#rooms">Praxisräume</a></li>
+      <li><a href="rooms<?= $suffix ?>">Praxisräume</a></li>
       <li><a href="index<?= $suffix ?>#team">Team</a></li>
       <li><a href="index<?= $suffix ?>#contact">Kontakt</a></li>
     </ul>
