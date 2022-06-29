@@ -17,14 +17,12 @@ include 'templates/head.php';
       Die Kosten für die Leistungen werden von den Krankenkassen übernommen und von der Hebamme direkt mit diesen abgerechnet.
     </p>
 
-    <p>
-      Wenn Sie privat versichert sind, ist es sinnvoll, sich vor Inanspruchnahme der Unterstützung einer Hebamme mit Ihrer Krankenkasse in Verbindung zu setzen und die jeweiligen Kostenübernahmeregelungen zu erfragen.
-    </p>
   </section>
 
-  <section id="leistungen">
+  <section id="leistung-schwangerschaft">
+    <h2>Schwangerschaft</h2>
 
-    <h2 id="vorsorge">Schwangerenvorsorge</h2>
+    <h3 id="vorsorge">Schwangerenvorsorge</h3>
     <p>
       Schwangerenvorsorge dient dazu, den Verlauf der Schwangerschaft zu überwachen. Sie
       richtet sich nach den Mutterschaftsrichtlinien des gemeinsamen Bundesausschusses der
@@ -58,7 +56,7 @@ include 'templates/head.php';
       sie in die ärztliche Betreuung. 
     </p>
 
-    <h2 id="beschwerden">Hilfe bei Schwangeschaftsbeschwerden</h2>
+    <h3 id="beschwerden">Hilfe bei Schwangeschaftsbeschwerden</h3>
     <p>
       Eine Schwangerschaft ist ein ganz natürlicher Prozess im Leben einer Frau
       und stellt keine Krankheit dar. Dennoch können in der Schwangerschaft kleinere
@@ -71,8 +69,13 @@ include 'templates/head.php';
       Ergänzend berate ich sie gerne bei Ernährungsfragen, Pränatale Diagnostik,
       Wahl des Geburtsortes, Geburtsvorbereitung etc. 
     </p>
+    
+  </section>
 
-    <h2 id="wochenbett">Wochenbettbetreuung & Stillberatung</h2>
+  <section id="leistung-wochenbett">
+    <h2>Zeit nach Geburt</h2>
+
+    <h3 id="wochenbett">Wochenbettbetreuung</h3>
 
     <p>
       Nach der Geburt ihres Kindes beginnt unmittelbar das Wochenbett.
@@ -100,8 +103,9 @@ include 'templates/head.php';
     <p>
       Bei zu früh geborenen Kindern ist eine Betreuung über die 12. Woche hinaus mit ärztlichem Attest möglich.
       In besonderen Fällen (Fehl- oder Frühgeburt, unabhängig von der Schwangerschaftswoche, toten oder kranken Kindern) 
-      ist ebenfalls eine individuelle Betreuung möglich… 
+      ist ebenfalls eine individuelle Betreuung möglich.
     </p>
+
     <h3>Stillberatung</h3>
     <p>
       Nach dem Wochenbett können immer wieder Fragen zur Stillzeit auftauchen.
@@ -114,7 +118,10 @@ include 'templates/head.php';
       Kontaktieren Sie mich gerne weiterhin, ich begleite Sie gerne individuelle.
     </p>
 
-    <h2 id="zusatzleistungen">Zusatzleistungen</h2>
+  </section>
+
+  <section id="leistung-zusatz">
+    <h2>Zusatzleistungen</h2>
     
     <h3 id="leistung-akupunktur">Akupunktursprechstunde</h3>
 
@@ -144,7 +151,7 @@ include 'templates/head.php';
     Pro Sitzung benötigen wir ca 30 Minuten und ich erhebe eine Zuzahlung von 15€, die entweder bar oder auf Rechnung bezahlt werden kann.
     </p>
 
-    <a href="courses<?= $suffix ?>#akupunktur">Akkupunktur Termin buchen</a>
+    <a href="courses<?= $suffix ?>#akupunktur">Akupunktur Termin buchen</a>
 
     <h3 id="leistung-hypnose">Hypnose</h3>
 
@@ -185,6 +192,27 @@ include 'templates/head.php';
       Gerne binde ich dies in meine Hebammenarbeit ein und berate sie dazu.
       Diese Leistung wird jedoch nicht von der Krankenkasse übernommen.
     </p>
+
+    <h3 id="leistung-massage">Schwangerschaftsmassage</h3>
+      <p>
+        Die geburtsvorbereitende Massage ist Bestandteil der von Dr. Gowri Motha entwickelten gentle birth Methode. 
+        Die Ölmassage von Bauch, Rücken und Becken wirkt entspannend, fördert die Eigenwahrnehmung und das Körperbewusstsein. 
+        Durch die Massage wird das Lymphsystem angeregt und die Durchblutung im gesamten Beckenraum unterstützt. 
+        Spannungen in der Schulter- Nackenpartie, des Bauchraumes, der Lendenwirbelsäule und des Beckens können gelöst werden. 
+        Dies fördert die physiologische Elastizität und Dehnbarkeit der Muskeln und Bänder vor allem im Beckenraum. 
+        Die tiefe Entspannung kann unterstützen, dass sich Muttermund, Vagina und Beckenbodenmuskeln unter der Geburt leichter öffnen und dehnen. 
+        Positive Affirmationen für die Geburtsarbeit begleiten die Massage. 
+      </p>
+
+      <p>
+        Eine optimale Vorbereitung auf die Geburt. 
+        Empfohlen wird die Massage ab der 36. Schwangerschaftswoche (35+0) im wöchentlichen Rhythmus bis zur Geburt des Kindes. 
+        Eine Behandlung dauert ca. 60 Minuten (ca.45Minuten Massagezeit und ca. 15 Minuten Schlussentspannung und Gespräch).
+      </p>
+  
+      <p>Einfach per Mail Terminwunsch an <a href="mailto:hebamme.birgit.fremter@web.de">hebamme.birgit.fremter@web.de</a></p>
+
+      <p>Kosten: 85€ - Bei Buchung von 3 Massage 200€</p>
   </section>
 
 </main>

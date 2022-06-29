@@ -13,13 +13,20 @@
     <ul>
       <li><a href="leistungen<?= $suffix ?>">Leistungen</a>
         <ul>
+          <li><a href="leistungen<?= $suffix ?>#leistung-schwangerschaft">Schwangershaft</a></li>
+          <li><a href="leistungen<?= $suffix ?>#leistung-wochenbett">Zeit nach der Geburt</a></li>
+          <li><a href="leistungen<?= $suffix ?>#leistung-zusatz">Zusatzleistungen:</a></li>
+
+            <li class="sublink"><a href="leistungen<?= $suffix ?>#leistung-akupunktur">Akupunktur</a></li>
+            <li class="sublink"><a href="leistungen<?= $suffix ?>#leistung-hypnose">Hypnose</a></li>
+            <li class="sublink"><a href="leistungen<?= $suffix ?>#leistung-ktaping">K-Taping©</a></li>
+            <li class="sublink"><a href="leistungen<?= $suffix ?>#leistung-massage">Schwangershaftsmassage</a></li>
+<!--
           <li><a href="leistungen<?= $suffix ?>#vorsorge">Schwangerenvorsorge</a></li>
           <li><a href="leistungen<?= $suffix ?>#beschwerden">Hilfe bei Schwangerschaftsbeschwerden</a></li>
           <li><a href="leistungen<?= $suffix ?>#wochenbett">Wochenbettbetreuung & Stillberatung</a></li>
           <li><span>Zusatzleistungen:</span></li>
-          <li><a href="leistungen<?= $suffix ?>#leistung-akupunktur">Akupunktur</a></li>
-          <li><a href="leistungen<?= $suffix ?>#leistung-hypnose">Hypnose</a></li>
-          <li><a href="leistungen<?= $suffix ?>#leistung-ktaping">K-Taping©</a>
+-->
         </ul>
       </li>
       <li><a href="courses<?= $suffix ?>">Kurse</a>
