@@ -28,7 +28,7 @@
     <div class="course-date">
       <div><nobr><?= formatDate($course->date_start) ?></nobr> - <nobr><?= formatDate($course->date_end) ?></nobr></div>
       <div>
-        <?= count($course->dates) ?> Termin<? if (count($course->dates)): ?>e<? endif; ?>
+        <?= count($course->dates) ?> Termin<? if (count($course->dates) > 1): ?>e<? endif; ?>
       </div>
       <div><small><?= formatTime($course->dates[0]->time_start) ?>-<?= formatTime($course->dates[0]->time_end) ?></small></div>
     </div>
