@@ -100,9 +100,7 @@ footer {
 }
 
 #contact-info {
-    width: 600px;
-    max-width: 85%;
-
+    max-width: 600px;
     margin: auto;
     font-size: 1.2em;
 
@@ -205,6 +203,11 @@ footer {
   }
   #profile-areas-1 { margin-bottom: 0; }
   #profile-areas-2 { margin-bottom: 0; }
+
+  #contact-info {
+    width: 600px;
+    max-width: 85%;
+  }
 }
 
 .image-container {
