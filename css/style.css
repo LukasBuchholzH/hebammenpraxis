@@ -118,6 +118,15 @@ footer {
   max-width: 100%;
 }
 
+#team-link {
+  color: black;
+  text-decoration: none;
+}
+
+#team-link:hover {
+  color: rgb(59, 200, 211);
+}
+
 #profile-header-1    { grid-area: profile-header-1; }
 #profile-cv-1        { grid-area: profile-cv-1; }
 #profile-tasks-1     { grid-area: profile-tasks-1; }

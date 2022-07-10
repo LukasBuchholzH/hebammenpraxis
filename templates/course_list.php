@@ -17,6 +17,7 @@
     <div class="course-title">
       <h4><?= $course->title ?></h4>
       <div>Kursleitung: <?= $course->instructor ?></div>
+      <div>Kursort: <?= $course->location->description ?></div>
       <?php if ($course->price > 0): ?>
         <div>Kosten: <?= $course->price ?>€</div>
       <?php endif; ?>

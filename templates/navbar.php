@@ -45,7 +45,7 @@
         </ul>
       </li>
       <li><a href="rooms<?= $suffix ?>">Praxisräume</a></li>
-      <li><a href="index<?= $suffix ?>#team">Team</a></li>
+      <li><a href="team<?= $suffix ?>">Team</a></li>
       <li><a href="index<?= $suffix ?>#contact">Kontakt</a></li>
     </ul>
   </nav>
