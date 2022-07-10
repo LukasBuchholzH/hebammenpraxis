@@ -14,7 +14,7 @@ include 'templates/head.php';
 
     <p>
       Jeder Schwangeren, Gebärenden, Wöchnerin und Stillenden steht die Betreuung durch eine Hebamme zu.
-      Die Kosten für die Leistungen werden von den Krankenkassen übernommen und von der Hebamme direkt mit diesen abgerechnet.
+      Die Kosten für die Leistungen werden von den Krankenkassen übernommen.
     </p>
 
   </section>
@@ -52,7 +52,7 @@ include 'templates/head.php';
 
     <p>
       Die Untersuchungen dienen dazu, die in der Schwangerschaft geprägten physiologischen
-      Veränderungen im Körper, zu kontrollieren. Sollten Abweichungen auftreten, überweise ich
+      Veränderungen im Körper, zu kontrollieren. Sollten Abweichungen auftreten, überweisen wir
       sie in die ärztliche Betreuung. 
     </p>
 
@@ -62,11 +62,11 @@ include 'templates/head.php';
       und stellt keine Krankheit dar. Dennoch können in der Schwangerschaft kleinere
       oder größere Schwangerschaftsbeschwerden wie z.B. Übelkeit, Rückenschmerzen,
       vorzeitige Wehen, aber auch Ängsten und Sorgen auftreten.
-      Hierfür stehe ich Ihnen gerne zur Seite und berate Sie individuell. 
+      Hierfür stehe wir Ihnen gerne zur Seite und beraten Sie individuell. 
     </p>
 
     <p>
-      Ergänzend berate ich sie gerne bei Ernährungsfragen, Pränatale Diagnostik,
+      Ergänzend berate wir Sie gerne bei Ernährungsfragen, Pränatale Diagnostik,
       Wahl des Geburtsortes, Geburtsvorbereitung etc. 
     </p>
     
@@ -114,8 +114,8 @@ include 'templates/head.php';
     </p>
 
     <p>
-      Genau für diese verschiedenen Fragen können Sie auch  über die Wochenbettszeit hinaus Hebammenhilfe in Anspruch nehmen. 
-      Kontaktieren Sie mich gerne weiterhin, ich begleite Sie gerne individuelle.
+      Genau für diese verschiedenen Fragen können Sie auch über die Wochenbettszeit hinaus Hebammenhilfe in Anspruch nehmen. 
+      
     </p>
 
     <h3>Beikostberatung</h3>
@@ -205,8 +205,8 @@ include 'templates/head.php';
     </p>
     
     <p>
-      Gerne binde ich dies in meine Hebammenarbeit ein und berate sie dazu.
-      Diese Leistung wird jedoch nicht von der Krankenkasse übernommen.
+      Gerne kann das Kinesio-Tape bei Beschwerden in der Schwangerschaft und Wochenbett zur Anwendung kommen. 
+      Diese Leistung wird nicht von der Krankenkasse übernommen. 
     </p>
 
     <h3 id="leistung-massage">Schwangerschaftsmassage</h3>
