@@ -21,6 +21,7 @@
             <li class="sublink"><a href="leistungen<?= $suffix ?>#leistung-hypnose">Hypnose</a></li>
             <li class="sublink"><a href="leistungen<?= $suffix ?>#leistung-ktaping">K-Taping©</a></li>
             <li class="sublink"><a href="leistungen<?= $suffix ?>#leistung-massage">Schwangershaftsmassage</a></li>
+            <li class="sublink"><a href="leistungen<?= $suffix ?>#leistung-Rectusdiastase">Rectusdiastase Coaching</a></li>
 <!--
           <li><a href="leistungen<?= $suffix ?>#vorsorge">Schwangerenvorsorge</a></li>
           <li><a href="leistungen<?= $suffix ?>#beschwerden">Hilfe bei Schwangerschaftsbeschwerden</a></li>

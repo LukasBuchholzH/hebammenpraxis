@@ -198,37 +198,69 @@ include 'templates/head.php';
     <p>Preis pro Stunde: 80€</p>
     
     
-    <h3 id="leistung-ktaping">Behandlung durch K-Taping©</h3>
+    <h3 id="leistung-ktaping">Behandlung durch K-Taping©</h3>
     <p>
-      Mithilfe von bestimmten Anlegetechniken lassen sich durch das Aufkleben von Kinesio-Tape
-      auf die Haut viele Symptome in der Schwangerschaft und auch im Wochenbett behandeln und lindern.
+      Mithilfe von bestimmten Anlegetechniken (Muskeltechnik, Ligamenttechnik, Lymphtechnik und dem Cross-Tape) lassen sich durch das Aufkleben von Kinesio-Tape
+      auf die Haut viele Symptome in der Schwangerschaft und auch im Wochenbett behandeln und lindern. 
     </p>
-    
+    <p> Der Begriff Kinesio-Taping stammt aus dem griechischen und bedeutet soviel wie "Bewegung mit einem Band befestigen".
+    </p>
     <p>
-      Gerne kann das Kinesio-Tape bei Beschwerden in der Schwangerschaft und Wochenbett zur Anwendung kommen. 
-      Diese Leistung wird nicht von der Krankenkasse übernommen. 
+      K-Taping kann in Schwangerschaft zum Beispiel für folgende Beschwerden helfen: LWS-Syndrom, Karpaltunnelsyndrom, 
+      Verspannung der Nackenmuskulatur, Stützung des schwangeren Bauches, Schwellung der Beine, Behandlung der bestimmten Akupunkturpunkte nmit dem Cross- Tape
+    </p>
+    <p>
+      In der Zeit nach der Geburt kann das K-Taping unter anderem bei der Rückbildung, einem Milchstau, bei einer Rectusdiastase oder einer Haltungskorrektur hilfreich sein.
+    </p>
+
+    <p>
+    Bei Interesse eines K-Tapings gerne die begleitende Hebamme kontaktieren oder eine Anfrage unter: <a href="mailto:info@hebammenpraxis-oststadt.de">info@hebammenpraxis-oststadt.de</a> stellen.
+    Der Preis richtet sich nach der Tapeanlage. 
     </p>
 
     <h3 id="leistung-massage">Schwangerschaftsmassage</h3>
-      <p>
-        Die geburtsvorbereitende Massage ist Bestandteil der von Dr. Gowri Motha entwickelten gentle birth Methode. 
-        Die Ölmassage von Bauch, Rücken und Becken wirkt entspannend, fördert die Eigenwahrnehmung und das Körperbewusstsein. 
-        Durch die Massage wird das Lymphsystem angeregt und die Durchblutung im gesamten Beckenraum unterstützt. 
-        Spannungen in der Schulter- Nackenpartie, des Bauchraumes, der Lendenwirbelsäule und des Beckens können gelöst werden. 
-        Dies fördert die physiologische Elastizität und Dehnbarkeit der Muskeln und Bänder vor allem im Beckenraum. 
-        Die tiefe Entspannung kann unterstützen, dass sich Muttermund, Vagina und Beckenbodenmuskeln unter der Geburt leichter öffnen und dehnen. 
-        Positive Affirmationen für die Geburtsarbeit begleiten die Massage. 
-      </p>
+    <p>
+      Die geburtsvorbereitende Massage ist Bestandteil der von Dr. Gowri Motha entwickelten gentle birth Methode. 
+      Die Ölmassage von Bauch, Rücken und Becken wirkt entspannend, fördert die Eigenwahrnehmung und das Körperbewusstsein. 
+      Durch die Massage wird das Lymphsystem angeregt und die Durchblutung im gesamten Beckenraum unterstützt. 
+      Spannungen in der Schulter- Nackenpartie, des Bauchraumes, der Lendenwirbelsäule und des Beckens können gelöst werden. 
+      Dies fördert die physiologische Elastizität und Dehnbarkeit der Muskeln und Bänder vor allem im Beckenraum. 
+      Die tiefe Entspannung kann unterstützen, dass sich Muttermund, Vagina und Beckenbodenmuskeln unter der Geburt leichter öffnen und dehnen. 
+      Positive Affirmationen für die Geburtsarbeit begleiten die Massage. 
+    </p>
 
-      <p>
-        Eine optimale Vorbereitung auf die Geburt. 
-        Empfohlen wird die Massage ab der 36. Schwangerschaftswoche (35+0) im wöchentlichen Rhythmus bis zur Geburt des Kindes. 
-        Eine Behandlung dauert ca. 60 Minuten (ca.45Minuten Massagezeit und ca. 15 Minuten Schlussentspannung und Gespräch).
-      </p>
-  
-      <p>Einfach per Mail Terminwunsch an <a href="mailto:hebamme.birgit.fremter@web.de">hebamme.birgit.fremter@web.de</a></p>
+    <p>
+      Eine optimale Vorbereitung auf die Geburt. 
+      Empfohlen wird die Massage ab der 36. Schwangerschaftswoche (35+0) im wöchentlichen Rhythmus bis zur Geburt des Kindes. 
+      Eine Behandlung dauert ca. 60 Minuten (ca.45Minuten Massagezeit und ca. 15 Minuten Schlussentspannung und Gespräch).
+    </p>
 
-      <p>Kosten: 85€ - Bei Buchung von 3 Massage 200€</p>
+    <p>Einfach per Mail Terminwunsch an <a href="mailto:hebamme.birgit.fremter@web.de">hebamme.birgit.fremter@web.de</a></p>
+
+    <p>Kosten: 85€ - Bei Buchung von 3 Massage 200€</p>
+
+    <h3 id="leistung-Rectusdiastase">Rectusdiastase Coaching</h3>
+    <p>
+    Was ist eine Rektusdiastase?
+    Darunter versteht man das Auseinanderweichen des geraden Bauchmuskels (M. rectus abdominis) im Bereich der Linda Alba (das ist die Linie in der Mitte deines Bauches, welche in der Schwangerschaft evtl. etwas dunkler gewesen ist).
+    Wie entsteht eine Rektusdiastase? In der Regel entsteht diese durch die Schwangerschaft. 
+    Durch den wachsenden Bauch sind deine Bauchmuskeln auseinandergewichen und in der Mitte ist ein Spalt entstanden. 
+    Je nach Größe des schwangeren Bauches ist diese unterschiedlich weit. Durch ungünstiges Verhalten in der Schwangerschaft wie Aufrollen aus der Rückenlage, schweres Heben und Tragen, kann sich der Bauchmuskelspalt unnötig vergrößern. Nach der Geburt und im Wochenbett schließt sich der Spalt in der Regel durch den natürlichen Regenerationsprozess zu einem gewissen Teil wieder.
+    Was tun bei einer Rektusdiastase? Die gute Nachricht ist, du kannst etwas bei einer Rektusdiastase tun!
+    Auch Jahre nach der Entbindung kann deine Körpermitte selbstverständlich noch stabilisiert werden.
+    Von mir bekommst du einen Trainingsplan mit einfachen, sanften und bewährten Übungen bei welchen deine gesamte Körpermitte (Bauch-, Beckenboden- und Rückenmuskulatur) mit einbezogen wird.
+    Die Übungen sind nicht im klassischen Sinne anstrengend und somit auch für Frauen geeignet, die nicht gerne Sport machen. 
+    Trotzdem ist ein gewisses Maß an Disziplin und Durchhaltevermögen erforderlich und die Übungen müssen regelmäßig durchgeführt werden.
+    Falls du einen sehr breiten Spalt hast (eine Hand und mehr) und/oder du das Gefühl hast, zusätzlich einen Nabelbruch zu haben, lass dies bitte bei deinem GynäkologenIN abklären.
+    </p>
+
+    <p> Was ist das Ziel des Rektusdiastase Workouts? Das Ziel ist deine Körpermitte zu kräftigen, dh die tiefe Bauchmuskulatur und deinen Beckenboden zu trainieren und eine bzw. mehr Spannung der Linea Alba zu erzielen, da dadurch eine Stabilität entsteht. Das Schließen der Rektusdiastase ist nicht das primäre Ziel, da es nicht immer möglich ist die Lücke zu schließen und dies auch gar nicht nötig ist, wenn die übrige Spannung und somit die Stabilität deines Rumpfes gegeben ist. Bei konsequenter Durchführung und Umstellung des Alltagsverhaltens, wurden mit diesem Training sehr gute Erfolge erzielt, dh der Körper ist wieder in der Lage funktionell zu arbeiten. 
+    Das Tolle ist - jeder deiner Atemzüge kann - richtig ausgeführt - deine Körpermitte trainieren!
+    </p>
+    <p>
+    Anfragen für ein Coaching gerne unter: <a href="mailto:hebamme.birgit.fremter@web.de">hebamme.birgit.fremter@web.de</a>
+    </p>
+
   </section>
 
 </main>
