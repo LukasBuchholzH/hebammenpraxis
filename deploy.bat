@@ -1,5 +1,6 @@
 mkdir deploy
 
+
 set DEPLOY=TRUE
 php\php.exe -c php\php.ini-development index.php > deploy\index.html
 php\php.exe -c php\php.ini-development courses.php > deploy\courses.html
