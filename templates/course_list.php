@@ -32,6 +32,11 @@
         <?= count($course->dates) ?> Termin<? if (count($course->dates) > 1): ?>e<? endif; ?>
       </div>
       <div><small><?= formatTime($course->dates[0]->time_start) ?>-<?= formatTime($course->dates[0]->time_end) ?></small></div>
+      <? foreach ($course->dates as $date): ?>
+        <? if ($date->description && (str_contains($date->description, "Begleitperson") || str_contains($date->description, "Partner"))): ?>
+          <div><?= formatDate($date->date) ?> mit Begleitperson</div>
+        <? endif; ?>
+      <? endforeach; ?>
     </div>
 
     <div class="course-booking">
