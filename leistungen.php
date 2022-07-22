@@ -115,7 +115,10 @@ include 'templates/head.php';
 
     <p>
       Genau für diese verschiedenen Fragen können Sie auch über die Wochenbettszeit hinaus Hebammenhilfe in Anspruch nehmen. 
-      
+</p>
+<p>
+      Wer sich bereits in der Schwangerschaft auf das Thema Stillen vorbereiten möchte, kann gerne am Stillvorbereitungskurs teilnehmen. 
+      Klicke <a href="courses<?= $suffix ?>#stillvorbereitung">hier</a>, um zur Terminauswahl und der Buchung des Kurses zu gelangen. 
     </p>
 
     <h3>Beikostberatung</h3>
@@ -133,6 +136,9 @@ include 'templates/head.php';
     <p>
       Jede Frau hat die Möglichkeit im Rahmen der Hebammenbegleitung ein Termin für ein Beikostgespräch zu vereinbaren. 
       Zudem gibt es die Möglichkeit den Kurs "B(r)eikost" in der Hebammenpraxis Oststadt als Zusatzleistung zu besuchen.
+    </p>
+    <p> 
+      Bei Interesse am Kurs "B(r)eikost" klicke <a href="courses<?= $suffix ?>#breikost">hier</a>, um zu den Terminen und der Anmeldung zu gelangen.
     </p>
   </section>
 
@@ -169,6 +175,27 @@ include 'templates/head.php';
 
     <a href="courses<?= $suffix ?>#akupunktur">Akupunktur Termin buchen</a>
 
+    <h3 id="leistung-massage">Schwangerschaftsmassage</h3>
+    <p>
+      Die geburtsvorbereitende Massage ist Bestandteil der von Dr. Gowri Motha entwickelten gentle birth Methode. 
+      Die Ölmassage von Bauch, Rücken und Becken wirkt entspannend, fördert die Eigenwahrnehmung und das Körperbewusstsein. 
+      Durch die Massage wird das Lymphsystem angeregt und die Durchblutung im gesamten Beckenraum unterstützt. 
+      Spannungen in der Schulter- Nackenpartie, des Bauchraumes, der Lendenwirbelsäule und des Beckens können gelöst werden. 
+      Dies fördert die physiologische Elastizität und Dehnbarkeit der Muskeln und Bänder vor allem im Beckenraum. 
+      Die tiefe Entspannung kann unterstützen, dass sich Muttermund, Vagina und Beckenbodenmuskeln unter der Geburt leichter öffnen und dehnen. 
+      Positive Affirmationen für die Geburtsarbeit begleiten die Massage. 
+    </p>
+
+    <p>
+      Eine optimale Vorbereitung auf die Geburt. 
+      Empfohlen wird die Massage ab der 36. Schwangerschaftswoche (35+0) im wöchentlichen Rhythmus bis zur Geburt des Kindes. 
+      Eine Behandlung dauert ca. 60 Minuten (ca.45Minuten Massagezeit und ca. 15 Minuten Schlussentspannung und Gespräch).
+    </p>
+
+    <p>Einfach per Mail Terminwunsch an <a href="mailto:hebamme.birgit.fremter@web.de">hebamme.birgit.fremter@web.de</a></p>
+
+    <p>Kosten: 85€ - Bei Buchung von 3 Massage 200€</p>
+
     <h3 id="leistung-hypnose">Hypnose</h3>
 
     <p>
@@ -195,7 +222,7 @@ include 'templates/head.php';
 
     <p>Anfragen gerne unter: <a href="mailto:hebamme@mariawinkler.de">hebamme@mariawinkler.de</a></p>
 
-    <p>Preis pro Stunde: 80€</p>
+    <p>Preis pro Stunde: 85€</p>
     
     
     <h3 id="leistung-ktaping">Behandlung durch K-Taping©</h3>
@@ -218,27 +245,7 @@ include 'templates/head.php';
     Der Preis richtet sich nach der Tapeanlage. 
     </p>
 
-    <h3 id="leistung-massage">Schwangerschaftsmassage</h3>
-    <p>
-      Die geburtsvorbereitende Massage ist Bestandteil der von Dr. Gowri Motha entwickelten gentle birth Methode. 
-      Die Ölmassage von Bauch, Rücken und Becken wirkt entspannend, fördert die Eigenwahrnehmung und das Körperbewusstsein. 
-      Durch die Massage wird das Lymphsystem angeregt und die Durchblutung im gesamten Beckenraum unterstützt. 
-      Spannungen in der Schulter- Nackenpartie, des Bauchraumes, der Lendenwirbelsäule und des Beckens können gelöst werden. 
-      Dies fördert die physiologische Elastizität und Dehnbarkeit der Muskeln und Bänder vor allem im Beckenraum. 
-      Die tiefe Entspannung kann unterstützen, dass sich Muttermund, Vagina und Beckenbodenmuskeln unter der Geburt leichter öffnen und dehnen. 
-      Positive Affirmationen für die Geburtsarbeit begleiten die Massage. 
-    </p>
-
-    <p>
-      Eine optimale Vorbereitung auf die Geburt. 
-      Empfohlen wird die Massage ab der 36. Schwangerschaftswoche (35+0) im wöchentlichen Rhythmus bis zur Geburt des Kindes. 
-      Eine Behandlung dauert ca. 60 Minuten (ca.45Minuten Massagezeit und ca. 15 Minuten Schlussentspannung und Gespräch).
-    </p>
-
-    <p>Einfach per Mail Terminwunsch an <a href="mailto:hebamme.birgit.fremter@web.de">hebamme.birgit.fremter@web.de</a></p>
-
-    <p>Kosten: 85€ - Bei Buchung von 3 Massage 200€</p>
-
+    
     <h3 id="leistung-Rectusdiastase">Rectusdiastase Coaching</h3>
     <p>
     Was ist eine Rektusdiastase?
