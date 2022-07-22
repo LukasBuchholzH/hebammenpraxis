@@ -38,6 +38,7 @@
           <li><a href="courses<?= $suffix ?>#akupunktur">Akupunktur</a></li>
           <li><a href="courses<?= $suffix ?>#notfallkurs">Baby- und Kindernotfallkurs</a></li>
           <li><a href="courses<?= $suffix ?>#barre">Barré Mom Fit</a></li>
+          <li><a href="courses<?= $suffix ?>#mamaworkoutbauch">Mamaworkout mit Babybauch</a></li>
           <li><a href="courses<?= $suffix ?>#mamaworkout">Mamaworkout</a></li>
           <li><a href="courses<?= $suffix ?>#goodmorning">Good Morning Beckenboden</a></li>
           <li><a href="courses<?= $suffix ?>#stillvorbereitung">Stillvorbereitungskurs</a></li>

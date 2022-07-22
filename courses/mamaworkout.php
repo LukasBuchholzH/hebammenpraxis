@@ -1,23 +1,17 @@
 <p>
-Dieser Kurs ist genau auf die Bedürfnisse der körperlichen Veränderungen in der Schwangerschaft zugeschnitten.
+MamaWORKOUT Outdoor Fit und vital an der frischen Luft! Dieser Kurs ist für alle Mamas, die Lust haben an der frischen Luft etwas für sich, ihre Fitness und ihr Wohlbefinden zu tun. 
+Eine sinnvolle Kombination aus Walking- / Fast Walking-Einheiten mit kurzen Ganzkörperworkouts gestalten dein Training interessant und abwechslungsreich.
+Wichtige Grundkenntnisse aus deinem Rückbildungskurs zum Thema Beckenboden und Muskelkorsett werden wiederholt.
 </p>
-
 <p>
-Ein individuell abgestimmtes Ganzkörpertraining. 
-Es werden Kraft, Ausdauer und Beweglichkeit trainiert. 
-Darüber hinaus erhältst Du Infos zu Deiner gesamten Körpermitte ( Rücken, Bauch und Beckenboden) und wertvolle Tipps für einen gesunden Alltag. 
-Du verbesserst Deine Haltung und stärkst Deinen Rücken. 
-Du mobilisierst und entspannst Deinen gesamten Körper.
-Du bereitest Deinen Körper auf die Geburt vor.
+Dein Baby darf gerne im Kinderwagen oder der Trage mitkommen! Das Besondere an diesem Kurs: 
 </p>
-
 <ul>
-  <li>für mehr Energie und Wohlbefinden in der Schwangerschaft</li>
-  <li>zur Vorbeugung/Linderung typischer Schwangerschaftsbeschwerden</li>
-  <li>zur Vorbereitung auf die Geburt</li>
-  <li>für eine schnellere Regeneration nach Entbindung</li>
+  <li>du trainierst an der frischen Luft</li>
+<li>du verbesserst sanft aber effektiv deine Ausdauerleistung</li>
+<li>du erhältst wertvolle Alltagstipps zu verschiedenen Themen</li>
+<li> trainierst mit anderen Mamas zusammen</li> 
 </ul>
-
 <p>
-Der Kurs ist für alle Schwangeren von der 12. - 40. Schwangerschaftswoche geeignet.
+Voraussetzungen: abgeschlossener Rückbildungskurs wetterfeste, atmungsaktive Kleidung, geeignetes Schuhwerk.
 </p>
