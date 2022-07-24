@@ -17,8 +17,16 @@ function loadCourses($save, $loadcache) {
 
     $courses = json_decode(file_get_contents($courses_url . $apikey));
 
+    $counter = 0;
+
     $course_details = array();
     foreach ($courses as $course) {
+      $counter = $counter + 1;
+
+      if ($counter % 45 == 0) {
+        sleep(300);
+      }
+
       $url = $details_url . $course->id . $apikey;
       $details = json_decode(file_get_contents($url));
 
