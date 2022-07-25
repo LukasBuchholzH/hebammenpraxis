@@ -13,7 +13,6 @@ if (getenv('DEPLOY')) {
 
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="google-site-verification" content="_dDKSCaZFIe8RnL9L8n_3UDp0GZgNsUWV7lxbKsRVko">
   <meta name="description" content="Wir bieten kompetente und verlässliche Begleitung in der Schwangerschaft, ob im Kurs oder im persönlichen Einzeltermin. In der Zeit nach der Geburt bieten wir Hausbesuche sowie individuelle Termine in der Praxis, Rückbildung in Kursen oder Einzeltraining an.">
 
   <!-- TODO: Description -->
