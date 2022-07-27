@@ -1,5 +1,6 @@
 <?php
 $title = 'Hebammenpraxis Oststadt';
+$description = 'Willkommen in der Hebammenpraxis Oststadt in Mannheim. Wir sind vier Hebammen und bieten ein breites Betreuungsangebot.';
 include 'templates/head.php';
 ?>
 

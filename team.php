@@ -1,5 +1,6 @@
 <?php
 $title = 'Hebammenpraxis Oststadt';
+$description = 'Wir sind das Team der Hebammenpraxis Oststadt, Birgit Fremter, Julia Gauweiler, Katharina Piwecki und Maria Winkler.';
 include 'templates/head.php';
 ?>
 

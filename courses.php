@@ -44,6 +44,7 @@ foreach ($courses as $course) {
 
 <?php 
 $title = 'Kursliste';
+$description = 'In der Hebammenpraxis Oststadt bieten wir zahlreiche Kurse an, von Geburtsvorbereitung bis zur Rückbildungsgymnastik.';
 include 'templates/head.php';
 ?>
 

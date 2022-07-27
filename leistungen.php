@@ -1,5 +1,6 @@
 <?php
 $title = 'Unser Leistungsangebot';
+$description = 'Erfahre mehr über unsere Leistungen. Wir bieten Betreuung vor und nach Schwangerschaft sowie zahlreiche Zusatzangebote.';
 include 'templates/head.php';
 ?>
 
