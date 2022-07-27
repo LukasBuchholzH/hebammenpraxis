@@ -25,7 +25,7 @@ $courselist = array(
   "mamaworkout" => initCourse('Mamaworkout', 'Mamaworkout'),
   "goodmorning" => initCourse('Good Morning Beckenboden', 'Good Morning Beckenboden'),
   "stillvorbereitung" => initCourse('Stillvorbereitungskurs', 'Stillvorbereitung'),
-  "breikost" => initCourse('B(r)eikost Workshop', 'B(r)eikost Workshop'),
+  "breikost" => initCourse('B(r)eikost Workshop', 'B(r)eikost'),
   "weitere" => initCourse('Weitere Kurse', '')
 
 );
