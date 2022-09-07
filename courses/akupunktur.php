@@ -10,4 +10,4 @@ Erwiesenermaßen hat die geburtsvorbereitende Akupunktur nach 2-3 Sitzungen eine
 Die geburtsvorbereitende Akupunktur alleine führt nicht zu einer früheren Geburt, eine wehenanregende Akupunktur kann aber zusätzlich angeboten werden. 
 </p>
 
-<p>Pro Sitzung benötigen wir ca 30 Minuten und ich erhebe eine Zuzahlung von aktuell 15€, ab August 20€, die entweder bar oder auf Rechnung bezahlt werden kann.</p>
+<p>Pro Sitzung benötigen wir ca 30 Minuten und ich erhebe eine Zuzahlung von 20€, die entweder bar oder auf Rechnung bezahlt werden kann.</p>
