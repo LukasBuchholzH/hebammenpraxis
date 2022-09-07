@@ -1,5 +1,6 @@
 <?php
 $title = 'Hebammenpraxis Oststadt';
+$description = 'Willkommen in der Hebammenpraxis Oststadt in Mannheim. Wir sind vier Hebammen und bieten ein breites Betreuungsangebot.';
 include 'templates/head.php';
 ?>
 
@@ -8,7 +9,7 @@ include 'templates/head.php';
 <main>
 
   <section>
-    <a href="team<?= $suffix ?>"><img src="img/team.png" width="100%"></a>
+    <a href="team<?= $suffix ?>"><img src="img/team.webp" width="100%"></a>
 
     <a id="team-link" href="team<?= $suffix ?>"><h1><nobr>Julia Gauweiler</nobr> · <nobr>Katharina Piwecki</nobr> · <nobr>Birgit Fremter</nobr> · <nobr>Maria Winkler</nobr></h1></a>
   </section>

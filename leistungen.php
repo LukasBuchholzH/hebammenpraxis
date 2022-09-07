@@ -1,5 +1,6 @@
 <?php
 $title = 'Unser Leistungsangebot';
+$description = 'Erfahre mehr über unsere Leistungen. Wir bieten Betreuung vor und nach Schwangerschaft sowie zahlreiche Zusatzangebote.';
 include 'templates/head.php';
 ?>
 
@@ -8,7 +9,7 @@ include 'templates/head.php';
 <main>
 
   <section>
-    <img src="img/team.png" width="100%">
+    <img src="img/team.webp" width="100%">
 
     <h1>Unser Leistungsangebot</h1>
 

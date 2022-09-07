@@ -25,7 +25,7 @@ $courselist = array(
   "mamaworkout" => initCourse('Mamaworkout', 'Mamaworkout'),
   "goodmorning" => initCourse('Good Morning Beckenboden', 'Good Morning Beckenboden'),
   "stillvorbereitung" => initCourse('Stillvorbereitungskurs', 'Stillvorbereitung'),
-  "breikost" => initCourse('B(r)eikost Workshop', 'B(r)eikost Workshop'),
+  "breikost" => initCourse('B(r)eikost Workshop', 'B(r)eikost'),
   "weitere" => initCourse('Weitere Kurse', '')
 
 );
@@ -44,6 +44,7 @@ foreach ($courses as $course) {
 
 <?php 
 $title = 'Kursliste';
+$description = 'In der Hebammenpraxis Oststadt bieten wir zahlreiche Kurse an, von Geburtsvorbereitung bis zur Rückbildungsgymnastik.';
 include 'templates/head.php';
 ?>
 

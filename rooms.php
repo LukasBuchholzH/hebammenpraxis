@@ -1,5 +1,6 @@
 <?php
 $title = 'Hebammenpraxis Oststadt';
+$description = 'Hier findest du Bilder unserer Praxisräume. Schaue dich gerne vorab um. Wir freuen uns schon dich bei uns Willkommen zu heißen.';
 include 'templates/head.php';
 ?>
 
