@@ -1,0 +1,3 @@
+<?php
+loadCourses(True, False);
+?>
