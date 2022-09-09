@@ -171,7 +171,7 @@ include 'templates/head.php';
     </p>
 
     <p>
-    Pro Sitzung benötigen wir ca 30 Minuten und ich erhebe eine Zuzahlung von 15€, die entweder bar oder auf Rechnung bezahlt werden kann.
+    Pro Sitzung benötigen wir ca 30 Minuten und ich erhebe eine Zuzahlung von 20€, die entweder bar oder auf Rechnung bezahlt werden kann.
     </p>
 
     <a href="courses<?= $suffix ?>#akupunktur">Akupunktur Termin buchen</a>
