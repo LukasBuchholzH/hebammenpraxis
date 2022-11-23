@@ -43,6 +43,7 @@
           <li><a href="courses<?= $suffix ?>#goodmorning">Good Morning Beckenboden</a></li>
           <li><a href="courses<?= $suffix ?>#stillvorbereitung">Stillvorbereitungskurs</a></li>
           <li><a href="courses<?= $suffix ?>#breikost">B(r)eikost Workshop</a></li>
+          <li><a href="courses<?= $suffix ?>#yoga">Babybauch Yoga</a></li>
           <li><a href="courses<?= $suffix ?>#weitere">Weitere Kurse</a></li>
         </ul>
       </li>
