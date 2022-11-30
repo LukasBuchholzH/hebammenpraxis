@@ -118,6 +118,7 @@ include 'templates/head.php';
           <li>2020 Bachelor of Science (B.Sc.) Hebammenwesen</li>
           <li>2018-2021 angestellte Hebamme (St. Hedwig Klinik und St. Marienkrankenhaus Ludwigshafen am Rhein)</li>
           <li>Seither ausschließlich selbstständig tätig</li>
+          <li>Seit 2023 Beleghebamme im Kreißsaal GRN-Schwetzingen</li>
         </ul>
       </div>
 
@@ -127,6 +128,7 @@ include 'templates/head.php';
           <li>Schwangerenvorsorge, Hilfe bei Beschwerden in Schwangerschaft, Geburtsvorbereitung</li>
           <li>Wochenbettbetreuung, Stillberatung, ganzheitliche Rückbildungsgymnastik</li>
           <li>Babymassage nach Leboyer, Beikostberatung</li>
+          <li>Geburtshilfe</li>
         </ul>
       </div>
 
@@ -143,8 +145,7 @@ include 'templates/head.php';
 
       <div id="profile-areas-3">
         <h4>Betreuungsgebiete</h4>
-        <ul><li class="areas">Innenstadt/Jungbusch, Neckarstadt, Oststadt, Schwetzingervorstadt,
-          Lindenhof/Neckarau, Wohlgelegen, Käfertal, Feudenheim</li></ul>
+        <ul><li class="areas">Innenstadt/Jungbusch, Neckarstadt, Oststadt, Schwetzingervorstadt, Lindenhof</li></ul>
       </div>
 
       <!-- MARIA -->
