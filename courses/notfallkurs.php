@@ -40,4 +40,4 @@ Im Onlinekurs mache ich die Übungen sehr detailgetreu vor, der Inhalt ist anson
 <p>Kurskosten: 50€ pro Person und 85€ für Paare</p>
 <p>Kursleitung: Anja Jaburek, Kinderkrankenschwester an der Universitätsmedizin Mannheim, Erste Hilfe Ausbilderin, BG zertifiziert.</p>
 
-<div style="margin-right: 12px; margin-top: 32px;"><a href="https://anjajaburek.simplybook.it/v2/#book" class="btn">Zur Anmeldung</a></div>
+<div style="margin-right: 12px; margin-top: 32px;"><a href="https://anjajaburek.de" class="btn">Zur Anmeldung</a></div>

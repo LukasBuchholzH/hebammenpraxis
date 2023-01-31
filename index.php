@@ -37,6 +37,35 @@ include 'templates/head.php';
     </div>
   </section>
 
+  <section id="news">
+    <h2>Aktuelles aus der Praxis</h2>
+
+    <h3>Es gibt neue Kursangebote:</h3>
+
+    <ul>
+      <li>
+        <h4>Body and Soul</h4>
+        <p>Du möchtest eine kleine Auszeit von deinem Alltag und neue Energie tanken? Nur du allein? In diesem Kurs-Workshop stärkst du mit gezielten Übungen deine Mitte, deinen Beckenboden und den gesamten Körper. Gleichzeitig trainierst du Balance und Haltung. Abgerundet wird der Abend durch eine ausführliche Tiefenentspannung mit Hypnoseelementen. Es wird eine Zeit sein, in der du dich ganz auf dich und deinen Körper konzentrieren kannst!</p>
+      </li>
+      <li>
+        <h4>Good Morning Beckenboden</h4>
+        <p>Du möchtest keine zusätzlichen Wege oder wohnst nicht in der Nähe? Der Kurs richtet sich an alle Frauen, egal welchen Alters, die sich näher mit ihrem Beckenboden beschäftigen möchten. In diesem Live-Online-Kurs stärkst du in einer festen Gruppe mit sanften Übungen deine Mitte, Balance und Haltung. Die Gruppengröße lässt jederzeit auch Raum für Fragen.</p>
+      </li>
+      <li>
+        <h4>Babymassage – Papaedition</h4>
+        <p>Hier sind alle Papas gefragt: Wenn ein Neugeborenes von Anfang an die Aufmerksamkeit des Vaters erfährt, kann es Vertrauen und eine tragfähige Beziehung zu ihm aufbauen. Die Babymassage – Papaedition bietet allen Väter die Möglichkeit Massagetechniken zu erlernen, die nonverbale Kommunikation zu fördern , Handlungssicherheiten aufzubauen und sich untereinander auszutauschen.</p>
+      </li>
+      <li>
+        <h4>Laufend fit werden nach der Rückbildung</h4>
+        <p>Du möchtest mit dem laufen (wieder) anfangen? Dein Rückbildungskurs ist abgeschlossen? Melde dich für den Laufkurs für Mütter in Mannheim an, unter der professionellen Leitung von Hebamme und Lauftrainierin Birgit Fremter.</p>
+      </li>
+      <li>
+        <h4>Babybauch - Yoga für Schwangere</h4>
+        <p>Babybauch - Yoga für Schwangere fördert das Wohlbefinden ganzheitlich und kann wunderbar unterstützen, in dieser Zeit mit Veränderungen besser zurechtzukommen und dadurch die Schwangerschaft und Geburt bewusster und aktiver erleben zu können.</p>
+      </li>
+    </ul>
+  </section>
+
   <section id="contact">
     <h2>Kontakt</h2>      
     <div id="contact-info">

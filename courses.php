@@ -17,6 +17,7 @@ function initCourse($title, $keyword) {
 $courselist = array(
   "rueckbildung" => initCourse('Rückbildungskurse', 'Rückbildung'),
   "geburtsvorbereitung" => initCourse('Geburtsvorbereitung', 'Geburtsvorbereitung'),
+  "babymassagepapa" => initCourse('Babymassage - Papaedition', 'Babymassage - Papaedition'),
   "babymassage"  => initCourse('Babymasage', 'Babymassage'),
   "akupunktur" => initCourse('Akupunktur', 'Akupunktur'),
   "notfallkurs" => initCourse('Baby- und Kindernotfallkurs', 'Kindernotfallkurs'),
@@ -27,6 +28,7 @@ $courselist = array(
   "stillvorbereitung" => initCourse('Stillvorbereitungskurs', 'Stillvorbereitung'),
   "breikost" => initCourse('B(r)eikost Workshop', 'B(r)eikost'),
   "yoga" => initCourse('Babybauch - Yoga für Schwangere', 'Babybauch Yoga für Schwangere mit Ivonne'),
+  "bodyandsoul" => initCourse('Body and Soul', 'Body and Soul'),
   "weitere" => initCourse('Weitere Kurse', '')
 );
 
