@@ -77,8 +77,7 @@ foreach ($courses as $course) {
 }
 
 // Add fixed courses
-array_push($courselist['yoga']['courses'], customYogaCourse(8, "2023-01-14", "2023-03-04", "16:00:00", "17:00:00"));
-array_push($courselist['yoga']['courses'], customYogaCourse(8, "2023-03-11", "2023-05-06", "16:00:00", "17:00:00"));
+array_push($courselist['yoga']['courses'], customYogaCourse(7, "2023-03-18", "2023-05-06", "16:00:00", "17:00:00"));
 ?>
 
 <?php 
