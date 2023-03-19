@@ -45,7 +45,7 @@
         <? if (property_exists($course, "email")): ?>
           <div style="text-align: right;">Anmeldung per E-Mail: <a href="mailto:kontakt.yogatime@gmail.com">kontakt.yogatime@gmail.com</a></div>
         <? elseif ($course->available_space > 0): ?>
-          <div><a href="<?= makeSignupUrl($course->id) ?>" class="btn">Anmelden</a></div>
+          <div><a href="<?= makeSignupUrl($courseid, $course->id) ?>" class="btn">Anmelden</a></div>
         <? else: ?>
           <div>Ausgebucht</div>
         <? endif; ?>

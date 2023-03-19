@@ -46,6 +46,7 @@
           <li><a href="courses<?= $suffix ?>#breikost">B(r)eikost Workshop</a></li>
           <li><a href="courses<?= $suffix ?>#yoga">Babybauch Yoga</a></li>
           <li><a href="courses<?= $suffix ?>#bodyandsoul">Body and Soul</a></li>
+          <li><a href="courses<?= $suffix ?>#laufkurs">Laufkurs für Mütter</a></li>
           <li><a href="courses<?= $suffix ?>#weitere">Weitere Kurse</a></li>
         </ul>
       </li>

@@ -4,7 +4,7 @@ include_once 'templates/util.php';
 if (getenv('DOWNLOAD_COURSES')) {
   $courses = loadCourses(False, True);
 } else {
-  $courses = loadCourses(True, False);
+  $courses = loadCourses(False, False);
 }
 
 function initCourse($title, $keyword) {
@@ -29,6 +29,7 @@ $courselist = array(
   "breikost" => initCourse('B(r)eikost Workshop', 'B(r)eikost'),
   "yoga" => initCourse('Babybauch - Yoga für Schwangere', 'Babybauch Yoga für Schwangere mit Ivonne'),
   "bodyandsoul" => initCourse('Body and Soul', 'Body and Soul'),
+  "laufkurs" => initCourse('Laufkurs für Mütter', 'Laufkurs'),
   "weitere" => initCourse('Weitere Kurse', '')
 );
 

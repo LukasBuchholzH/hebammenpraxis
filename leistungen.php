@@ -195,7 +195,7 @@ include 'templates/head.php';
 
     <p>Einfach per Mail Terminwunsch an <a href="mailto:hebamme.birgit.fremter@web.de">hebamme.birgit.fremter@web.de</a></p>
 
-    <p>Kosten: 85€ - Bei Buchung von 3 Massage 200€</p>
+    <p>Kosten: 85€ - Bei Buchung von 3 Massage 240€</p>
 
     <h3 id="leistung-hypnose">Hypnose</h3>
 

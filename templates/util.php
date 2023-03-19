@@ -4,9 +4,14 @@ function lesserStartDate($c1, $c2) {
   return (new DateTime($c1->date_start) < new DateTime($c2->date_start)) ? -1 : 1;
 }
 
-function makeSignupUrl($courseid) {
-  $url = 'https://hebammenpraxisoststadt.hebamio.de/anmeldung?reason=course-';
-  return $url . $courseid;
+function makeSignupUrl($courseid, $hebamioid) { 
+  if (strcmp($courseid, 'laufkurs') == 0) {
+    $url = 'https://laufundfitnessakademie.de/laufkurs-fuer-mamas/';
+  }
+  else {
+    $url = 'https://hebammenpraxisoststadt.hebamio.de/anmeldung?reason=course-' . $hebamioid;
+  }
+  return $url;
 }
 
 function loadCourses($save, $loadcache) {
