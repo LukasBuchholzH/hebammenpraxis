@@ -22,8 +22,11 @@
         <?php if ($course->price > 0): ?>
           <div>Kosten: <?= $course->price ?>€</div>
         <?php endif; ?>
-        <?php if ($course->price_partner > 0): ?>
+        <?php if (property_exists($course, "price_partner") && $course->price_partner > 0): ?>
           <div>Partnergebühr: <?= $course->price_partner ?>€</div>
+        <?php endif; ?>
+        <?php if (property_exists($course, "price_couple") && $course->price_couple > 0): ?>
+          <div>Paare: <?= $course->price_couple ?>€</div>
         <?php endif; ?>
       </div>
 
@@ -44,6 +47,8 @@
       <div class="course-booking">
         <? if (property_exists($course, "email")): ?>
           <div style="text-align: right;">Anmeldung per E-Mail: <a href="mailto:kontakt.yogatime@gmail.com">kontakt.yogatime@gmail.com</a></div>
+        <? elseif (property_exists($course, "link")): ?>
+          <div><a href="<?= $course->link ?>" class="btn">Zur Anmeldung</a></div>
         <? elseif ($course->available_space > 0): ?>
           <div><a href="<?= makeSignupUrl($courseid, $course->id) ?>" class="btn">Anmelden</a></div>
         <? else: ?>

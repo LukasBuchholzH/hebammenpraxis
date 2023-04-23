@@ -12,5 +12,5 @@
 
 <p>
     Ivonne ist 500h+ zertifizierte Yogalehrerin und der Kurs wurde nach § 20 Abs. 1 SGB V von der Zentrale Prüfstelle Prävention geprüft.
-    Je nach Krankenkasse kannst Du Dir 80% - 100% der Kursgebühr von deiner gesetzlichen Krankenkasse erstatten lassen. 
+    Je nach Krankenkasse kannst du dir 80% - 100% der Kursgebühr von deiner gesetzlichen Krankenkasse erstatten lassen. 
 </p>

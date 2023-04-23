@@ -27,6 +27,7 @@ $courselist = array(
   "goodmorning" => initCourse('Good Morning Beckenboden', 'Good Morning Beckenboden'),
   "stillvorbereitung" => initCourse('Stillvorbereitungskurs', 'Stillvorbereitung'),
   "breikost" => initCourse('B(r)eikost Workshop', 'B(r)eikost'),
+  "windel" => initCourse('Stoffwindel-Workshop', 'Stoffwindel-Workshop'),
   "yoga" => initCourse('Babybauch - Yoga für Schwangere', 'Babybauch Yoga für Schwangere mit Ivonne'),
   "bodyandsoul" => initCourse('Body and Soul', 'Body and Soul'),
   "laufkurs" => initCourse('Laufkurs für Mütter', 'Laufkurs'),
@@ -66,6 +67,38 @@ function customYogaCourse($num_dates, $start_date, $end_date, $time_start, $time
   );
 }
 
+function customWindelCourse($num_dates, $start_date, $end_date, $time_start, $time_end) {
+  $start = (object) array(
+    "date" => $start_date,
+    "description" => "",
+    "time_start" => $time_start,
+    "time_end" => $time_end
+  );
+  $end = (object) array(
+    "date" => $end_date,
+    "description" => "",
+    "time_start" => $time_start,
+    "time_end" => $time_end
+  );
+
+  $dates = array();
+  for ($i = 0; $i < $num_dates - 1; $i++) {
+    array_push($dates, $start);
+  }
+  array_push($dates, $end);
+
+  return (object) array(
+    "title" => "Stoffwindel-Workshop",
+    "instructor" => "Isabell Bauer",
+    "location" => (object) array("description" => "Hebammenpraxis Oststadt"),
+    "price" => 35,
+    "price_couple" => 55,
+    "date_start" => $start_date,
+    "date_end" => $end_date,
+    "dates" => $dates,
+    "link" => "https://gluecklichwickeln.de/anmeldung-workshop/"
+  );
+}
 
 foreach ($courses as $course) {
   foreach (array_keys($courselist) as $courseid) {
@@ -82,6 +115,9 @@ array_push($courselist['yoga']['courses'], customYogaCourse(7, "2023-03-18", "20
 array_push($courselist['yoga']['courses'], customYogaCourse(9, "2023-06-16", "2023-08-11", "16:00:00", "17:00:00"));
 array_push($courselist['yoga']['courses'], customYogaCourse(8, "2023-08-18", "2023-10-06", "16:00:00", "17:00:00"));
 array_push($courselist['yoga']['courses'], customYogaCourse(8, "2023-10-27", "2023-12-15", "16:00:00", "17:00:00"));
+
+array_push($courselist['windel']['courses'], customWindelCourse(1, "2023-05-26", "2023-05-26", "17:00:00", "19:30:00"));
+array_push($courselist['windel']['courses'], customWindelCourse(1, "2023-07-14", "2023-07-14", "17:00:00", "19:30:00"));
 
 ?>
 

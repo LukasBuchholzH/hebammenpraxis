@@ -44,6 +44,7 @@
           <li><a href="courses<?= $suffix ?>#goodmorning">Good Morning Beckenboden</a></li>
           <li><a href="courses<?= $suffix ?>#stillvorbereitung">Stillvorbereitungskurs</a></li>
           <li><a href="courses<?= $suffix ?>#breikost">B(r)eikost Workshop</a></li>
+          <li><a href="courses<?= $suffix ?>#windel">Stoffwindel-Workshop</a></li>
           <li><a href="courses<?= $suffix ?>#yoga">Babybauch Yoga</a></li>
           <li><a href="courses<?= $suffix ?>#bodyandsoul">Body and Soul</a></li>
           <li><a href="courses<?= $suffix ?>#laufkurs">Laufkurs für Mütter</a></li>
