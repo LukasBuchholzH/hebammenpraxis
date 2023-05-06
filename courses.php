@@ -56,7 +56,7 @@ function customYogaCourse($num_dates, $start_date, $end_date, $time_start, $time
 
   return (object) array(
     "title" => "Babybauch Yoga für Schwangere mit Ivonne",
-    "instructor" => "Yvonne Scharff",
+    "instructor" => "Ivonne Scharff",
     "location" => (object) array("description" => "Hebammenpraxis Oststadt"),
     "price" => 120,
     "price_partner" => 0,
@@ -111,10 +111,9 @@ foreach ($courses as $course) {
 }
 
 // Add fixed courses
-array_push($courselist['yoga']['courses'], customYogaCourse(7, "2023-03-18", "2023-05-06", "16:00:00", "17:00:00"));
-array_push($courselist['yoga']['courses'], customYogaCourse(9, "2023-06-16", "2023-08-11", "16:00:00", "17:00:00"));
-array_push($courselist['yoga']['courses'], customYogaCourse(8, "2023-08-18", "2023-10-06", "16:00:00", "17:00:00"));
-array_push($courselist['yoga']['courses'], customYogaCourse(8, "2023-10-27", "2023-12-15", "16:00:00", "17:00:00"));
+array_push($courselist['yoga']['courses'], customYogaCourse(8, "2023-06-16", "2023-08-11", "17:00:00", "18:00:00"));
+array_push($courselist['yoga']['courses'], customYogaCourse(8, "2023-08-18", "2023-10-06", "17:00:00", "18:00:00"));
+array_push($courselist['yoga']['courses'], customYogaCourse(8, "2023-10-27", "2023-12-15", "17:00:00", "18:00:00"));
 
 array_push($courselist['windel']['courses'], customWindelCourse(1, "2023-05-26", "2023-05-26", "17:00:00", "19:30:00"));
 array_push($courselist['windel']['courses'], customWindelCourse(1, "2023-07-14", "2023-07-14", "17:00:00", "19:30:00"));
