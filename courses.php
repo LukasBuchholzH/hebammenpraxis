@@ -134,13 +134,6 @@ include 'templates/head.php';
   <img src="img/courses.webp" width="100%">
 
   <h1>Kursliste</h1>
-
-  <p>
-    Aufgrund der Covid19-Lage haben wir aktuell unterschiedliche Kursvarianten. 
-    Wir bieten Live-Online Kurse über Zoom oder Präsenzkurse in unseren Räumen an. 
-    Je nach Pandemiegeschehen kann sich das Format auch mal kurzfristig ändern, dafür bitten wir um Verständnis.
-    In unseren Räumen besteht eine <b>FFP-2</b> Maskenpflicht und wir erbitten für unsere Kursteilnehmerinnen einen tagesaktuellen Schnelltest (unabhängig vom Geimpft-, oder Genesenenstatus und so lange es die Lage erfordert).
-  </p>
 </section>
 
 <?php 

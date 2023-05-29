@@ -7,10 +7,6 @@ Beckenbodens und Erläuterung der Lage innerer Organe Wahrnehmung, Kontrolle und
 Venentraining Körperarbeit, z.B. Entspannungsübungen
 </p>
 
-<p>
-Wir empfehlen auf Grund der aktuellen Covid-19 Lage eine medizinische Maske in unseren Räumlichkeiten und erbitten einen tagesaktuellen Schnelltest.
-</p>
-
 <strong>Rückbildungskurs Vormittags:</strong>
 
 <p>Das Baby darf gerne dabei sein, ist aber kein Muss.</p>

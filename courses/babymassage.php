@@ -27,7 +27,3 @@ Die Babymassage beinhaltet: Massage gegen Blähungen und Koliken, Ganzkörpermas
 <p>
 Mindestteilnehmeranzahl 5 Personen
 </p>
-
-<p> 
-Wir empfehlen auf Grund der aktuellen Covid-19 Lage eine medizinische Maske in unseren Räumlichkeiten und erbitten einen tagesaktuellen Schnelltest.
-</p>
