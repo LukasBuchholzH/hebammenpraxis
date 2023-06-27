@@ -54,6 +54,7 @@
       <li><a href="rooms<?= $suffix ?>">Praxisräume</a></li>
       <li><a href="team<?= $suffix ?>">Team</a></li>
       <li><a href="index<?= $suffix ?>#contact">Kontakt</a></li>
+      <li><a href="midwives<?= $suffix ?>">Für Fachpersonen</a></li>
     </ul>
   </nav>
 </header>
