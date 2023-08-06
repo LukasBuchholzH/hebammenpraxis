@@ -145,7 +145,7 @@ include 'templates/head.php';
 
       <div id="profile-areas-3">
         <h4>Betreuungsgebiete</h4>
-        <ul><li class="areas">Innenstadt/Jungbusch, Neckarstadt, Oststadt, Schwetzingervorstadt, Lindenhof</li></ul>
+        <ul><li class="areas">Innenstadt, Neckarstadt, Oststadt, Schwetzingervorstadt, Käfertal</li></ul>
       </div>
 
       <!-- MARIA -->

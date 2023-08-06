@@ -21,15 +21,17 @@ $courselist = array(
   "babymassage"  => initCourse('Babymasage', 'Babymassage'),
   "akupunktur" => initCourse('Akupunktur', 'Akupunktur'),
   "notfallkurs" => initCourse('Baby- und Kindernotfallkurs', 'Kindernotfallkurs'),
-  "barre" => initCourse('Barré Mom Fit', 'Barr'),
+  //"barre" => initCourse('Barré Mom Fit', 'Barr'),
   "mamaworkoutbauch"=> initCourse('Mamaworkout mit Babybauch', 'Mamaworkout mit Babybauch'),
+  "mamaworkoutindoor" => initCourse('Funktionelles Mamaworkout indoor', 'Mamaworkout indoor'),
   "mamaworkout" => initCourse('Mamaworkout', 'Mamaworkout'),
-  "goodmorning" => initCourse('Good Morning Beckenboden', 'Good Morning Beckenboden'),
+  //"goodmorning" => initCourse('Good Morning Beckenboden', 'Good Morning Beckenboden'),
+  "sportkurs" => initCourse('Sportkurs', 'Sportkurs'),
   "stillvorbereitung" => initCourse('Stillvorbereitungskurs', 'Stillvorbereitung'),
   "breikost" => initCourse('B(r)eikost Workshop', 'B(r)eikost'),
   "windel" => initCourse('Stoffwindel-Workshop', 'Stoffwindel-Workshop'),
   "yoga" => initCourse('Babybauch - Yoga für Schwangere', 'Babybauch Yoga für Schwangere mit Ivonne'),
-  "bodyandsoul" => initCourse('Body and Soul', 'Body and Soul'),
+  //"bodyandsoul" => initCourse('Body and Soul', 'Body and Soul'),
   "laufkurs" => initCourse('Laufkurs für Mütter', 'Laufkurs'),
   "weitere" => initCourse('Weitere Kurse', '')
 );
@@ -115,8 +117,8 @@ array_push($courselist['yoga']['courses'], customYogaCourse(8, "2023-06-16", "20
 array_push($courselist['yoga']['courses'], customYogaCourse(8, "2023-08-18", "2023-10-06", "17:00:00", "18:00:00"));
 array_push($courselist['yoga']['courses'], customYogaCourse(8, "2023-10-27", "2023-12-15", "17:00:00", "18:00:00"));
 
-array_push($courselist['windel']['courses'], customWindelCourse(1, "2023-05-26", "2023-05-26", "17:00:00", "19:30:00"));
-array_push($courselist['windel']['courses'], customWindelCourse(1, "2023-07-14", "2023-07-14", "17:00:00", "19:30:00"));
+array_push($courselist['windel']['courses'], customWindelCourse(1, "2023-09-16", "2023-09-16", "10:00:00", "12:30:00"));
+array_push($courselist['windel']['courses'], customWindelCourse(1, "2023-11-18", "2023-11-18", "10:00:00", "12:30:00"));
 
 ?>
 

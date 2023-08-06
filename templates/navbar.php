@@ -19,6 +19,8 @@
 
             <li class="sublink"><a href="leistungen<?= $suffix ?>#leistung-akupunktur">Akupunktur</a></li>
             <li class="sublink"><a href="leistungen<?= $suffix ?>#leistung-hypnose">Hypnose</a></li>
+            <li class="sublink"><a href="leistungen<?= $suffix ?>#leistung-narbenbehandlung">Narbenbehandlung</a></li>
+            <li class="sublink"><a href="leistungen<?= $suffix ?>#leistung-craniosacral">Craniosacral-Therapie</a></li>
             <li class="sublink"><a href="leistungen<?= $suffix ?>#leistung-ktaping">K-Taping©</a></li>
             <li class="sublink"><a href="leistungen<?= $suffix ?>#leistung-massage">Schwangerschaftsmassage</a></li>
             <li class="sublink"><a href="leistungen<?= $suffix ?>#leistung-Rectusdiastase">Rectusdiastase Coaching</a></li>
@@ -38,15 +40,17 @@
           <li><a href="courses<?= $suffix ?>#babymassage" >Babymasage</a></li>          
           <li><a href="courses<?= $suffix ?>#akupunktur">Akupunktur</a></li>
           <li><a href="courses<?= $suffix ?>#notfallkurs">Baby- und Kindernotfallkurs</a></li>
-          <li><a href="courses<?= $suffix ?>#barre">Barré Mom Fit</a></li>
+          <!--<li><a href="courses<?= $suffix ?>#barre">Barré Mom Fit</a></li>-->
           <li><a href="courses<?= $suffix ?>#mamaworkoutbauch">Mamaworkout mit Babybauch</a></li>
           <li><a href="courses<?= $suffix ?>#mamaworkout">Mamaworkout</a></li>
-          <li><a href="courses<?= $suffix ?>#goodmorning">Good Morning Beckenboden</a></li>
+          <li><a href="courses<?= $suffix ?>#mamaworkoutindoor">Funktionelles Mamaworkout indoor</a></li>
+          <!--<li><a href="courses<?= $suffix ?>#goodmorning">Good Morning Beckenboden</a></li>-->
+          <li><a href="courses<?= $suffix ?>#sportkurs">Sportkurs</a></li>
           <li><a href="courses<?= $suffix ?>#stillvorbereitung">Stillvorbereitungskurs</a></li>
           <li><a href="courses<?= $suffix ?>#breikost">B(r)eikost Workshop</a></li>
           <li><a href="courses<?= $suffix ?>#windel">Stoffwindel-Workshop</a></li>
           <li><a href="courses<?= $suffix ?>#yoga">Babybauch Yoga</a></li>
-          <li><a href="courses<?= $suffix ?>#bodyandsoul">Body and Soul</a></li>
+          <!--<li><a href="courses<?= $suffix ?>#bodyandsoul">Body and Soul</a></li>-->
           <li><a href="courses<?= $suffix ?>#laufkurs">Laufkurs für Mütter</a></li>
           <li><a href="courses<?= $suffix ?>#weitere">Weitere Kurse</a></li>
         </ul>

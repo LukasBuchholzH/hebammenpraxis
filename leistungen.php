@@ -225,6 +225,33 @@ include 'templates/head.php';
 
     <p>Preis pro Stunde: 85€</p>
     
+    <h3 id="leistung-narbenbehandlung">Narbenbehandlung</h3>
+    <p>
+    ScarWork nach Sharon Wheeler integriert dysfunktionales Narbengewebe in das Fasziennetz des Körpers. 
+    Die Qualität des Narbengewebes ändert sich spürbar bereits während der Behandlung. 
+    Die Narbe wird weicher. 
+    Knoten, Stränge, Einziehungen und Adhäsionen verschmelzen spür- und sichtbar mit dem gesunden Fasziengewebe.
+    </p>
+
+    <p>
+    Diese Art der Behandlung ist völlig schmerzfrei und jederzeit nach Abheilen der Narbe möglich, ob zeitnah oder nach vielen Jahren. Bei Interesse gerne melden unter: <a href="mailto:hebamme@mariawinkler.de">hebamme@mariawinkler.de</a>
+    </p>
+
+    <h3 id="leistung-craniosacral">Craniosacral-Therapie</h3>
+    <p>   
+    Craniosacral-Therapie ist eine feine tiefgreifende Körperarbeit die auf allen Ebenen des menschlichen Seins ausgleichend und harmonisierend wirkt.
+    Sie ist eine alternativmedizinische manuelle Behandlungsform, die ihre Ursprünge in der Osteopathie hat.
+    </p>
+
+    <p>
+    In der Schwangerschaft unterstützt die craniosacrale Arbeit die werdende Mutter im Wandlungsprozess ihres Körpers und hilft, Schwangerschaftsbeschwerden zu lindern. 
+    Durch gezielte Behandlungstechniken kann sich der Körper den neuen Umständen optimal anpassen. 
+    Diese Art der Körperarbeit ist auch nach der Geburt eine gute Möglichkeit tiefe Entspannungszustände hervorzurufen und Heilungsprozesse positiv zu beeinflussen. 
+    </p>
+    
+    <p>
+    Bei Interesse gerne melden unter: <a href="mailto:hebamme@mariawinkler.de">hebamme@mariawinkler.de</a>
+    </p>
     
     <h3 id="leistung-ktaping">Behandlung durch K-Taping©</h3>
     <p>
@@ -268,6 +295,7 @@ include 'templates/head.php';
     <p>
     Anfragen für ein Coaching gerne unter: <a href="mailto:hebamme.birgit.fremter@web.de">hebamme.birgit.fremter@web.de</a>
     </p>
+
 
   </section>
 
