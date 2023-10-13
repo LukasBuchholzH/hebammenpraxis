@@ -20,8 +20,14 @@
         <div>Kursleitung: <?= $course->instructor ?></div>
         <div>Kursort: <?= $course->location->description ?></div>
         <?php if ($course->price > 0): ?>
-          <div>Kosten: <?= $course->price ?>€</div>
+          <div>
+            Kosten: <?= $course->price ?>€
+            <?php if (property_exists($course, "price_addendum")): ?>
+              <?= $course->price_addendum ?>
+            <?php endif; ?>
+          </div>
         <?php endif; ?>
+
         <?php if (property_exists($course, "price_partner") && $course->price_partner > 0): ?>
           <div>Partnergebühr: <?= $course->price_partner ?>€</div>
         <?php endif; ?>

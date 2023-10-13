@@ -31,8 +31,10 @@ $courselist = array(
   "breikost" => initCourse('B(r)eikost Workshop', 'B(r)eikost'),
   "windel" => initCourse('Stoffwindel-Workshop', 'Stoffwindel-Workshop'),
   "yoga" => initCourse('Babybauch - Yoga für Schwangere', 'Babybauch Yoga für Schwangere mit Ivonne'),
+  "yogaMitKind" => initCourse('Yoga mit Kind', 'Yoga mit Kind'),
   //"bodyandsoul" => initCourse('Body and Soul', 'Body and Soul'),
   "laufkurs" => initCourse('Laufkurs für Mütter', 'Laufkurs'),
+  "trage" => initCourse('Trage-Workshop', 'Trage-Workshop'),
   "weitere" => initCourse('Weitere Kurse', '')
 );
 
@@ -61,6 +63,41 @@ function customYogaCourse($num_dates, $start_date, $end_date, $time_start, $time
     "instructor" => "Ivonne Scharff",
     "location" => (object) array("description" => "Hebammenpraxis Oststadt"),
     "price" => 120,
+    "price_addendum" => " - Erstattungsfähig über die Krankenkassen",
+    "price_partner" => 0,
+    "date_start" => $start_date,
+    "date_end" => $end_date,
+    "dates" => $dates,
+    "email" => "kontakt.yogatime@gmail.com"
+  );
+}
+
+function customYogaMitKind($num_dates, $start_date, $end_date, $time_start, $time_end) {
+  $start = (object) array(
+    "date" => $start_date,
+    "description" => "",
+    "time_start" => $time_start,
+    "time_end" => $time_end
+  );
+  $end = (object) array(
+    "date" => $end_date,
+    "description" => "",
+    "time_start" => $time_start,
+    "time_end" => $time_end
+  );
+
+  $dates = array();
+  for ($i = 0; $i < $num_dates - 1; $i++) {
+    array_push($dates, $start);
+  }
+  array_push($dates, $end);
+
+  return (object) array(
+    "title" => "Yoga mit Kind",
+    "instructor" => "Ivonne Scharff",
+    "location" => (object) array("description" => "Hebammenpraxis Oststadt"),
+    "price" => 140,
+    "price_addendum" => " - Erstattungsfähig über die Krankenkassen",
     "price_partner" => 0,
     "date_start" => $start_date,
     "date_end" => $end_date,
@@ -102,6 +139,39 @@ function customWindelCourse($num_dates, $start_date, $end_date, $time_start, $ti
   );
 }
 
+function customTrage($num_dates, $start_date, $end_date, $time_start, $time_end) {
+  $start = (object) array(
+    "date" => $start_date,
+    "description" => "",
+    "time_start" => $time_start,
+    "time_end" => $time_end
+  );
+  $end = (object) array(
+    "date" => $end_date,
+    "description" => "",
+    "time_start" => $time_start,
+    "time_end" => $time_end
+  );
+
+  $dates = array();
+  for ($i = 0; $i < $num_dates - 1; $i++) {
+    array_push($dates, $start);
+  }
+  array_push($dates, $end);
+
+  return (object) array(
+    "title" => "Trage-Workshop",
+    "instructor" => "Lara Holldorf",
+    "location" => (object) array("description" => "Hebammenpraxis Oststadt"),
+    "price" => 40,
+    "price_addendum" => " pro Familie",
+    "date_start" => $start_date,
+    "date_end" => $end_date,
+    "dates" => $dates,
+    "link" => "https://trageberatung-weinheim.de"
+  );
+}
+
 foreach ($courses as $course) {
   foreach (array_keys($courselist) as $courseid) {
     $keyword = $courselist[$courseid]['keyword'];
@@ -113,12 +183,19 @@ foreach ($courses as $course) {
 }
 
 // Add fixed courses
-array_push($courselist['yoga']['courses'], customYogaCourse(8, "2023-06-16", "2023-08-11", "17:00:00", "18:00:00"));
-array_push($courselist['yoga']['courses'], customYogaCourse(8, "2023-08-18", "2023-10-06", "17:00:00", "18:00:00"));
 array_push($courselist['yoga']['courses'], customYogaCourse(8, "2023-10-27", "2023-12-15", "17:00:00", "18:00:00"));
+array_push($courselist['yoga']['courses'], customYogaCourse(8, "2024-01-05", "2024-03-01", "17:00:00", "18:00:00"));
+array_push($courselist['yoga']['courses'], customYogaCourse(8, "2024-03-08", "2024-05-03", "17:00:00", "18:00:00"));
+array_push($courselist['yoga']['courses'], customYogaCourse(8, "2024-05-10", "2024-06-28", "17:00:00", "18:00:00"));
 
-array_push($courselist['windel']['courses'], customWindelCourse(1, "2023-09-16", "2023-09-16", "10:00:00", "12:30:00"));
+array_push($courselist['yogaMitKind']['courses'], customYogaMitKind(8, "2024-01-25", "2024-03-15", "12:00:00", "13:00:00"));
+array_push($courselist['yogaMitKind']['courses'], customYogaMitKind(8, "2024-03-20", "2024-05-22", "12:00:00", "13:00:00"));
+
 array_push($courselist['windel']['courses'], customWindelCourse(1, "2023-11-18", "2023-11-18", "10:00:00", "12:30:00"));
+array_push($courselist['windel']['courses'], customWindelCourse(1, "2024-01-24", "2024-01-24", "10:30:00", "12:00:00"));
+
+array_push($courselist['trage']['courses'], customTrage(1, "2023-11-28", "2023-11-28", "10:00", "12:00"));
+
 
 ?>
 
