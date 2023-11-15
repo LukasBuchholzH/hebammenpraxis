@@ -184,11 +184,11 @@ foreach ($courses as $course) {
 
 // Add fixed courses
 array_push($courselist['yoga']['courses'], customYogaCourse(8, "2023-10-27", "2023-12-15", "17:00:00", "18:00:00"));
-array_push($courselist['yoga']['courses'], customYogaCourse(8, "2024-01-24", "2024-03-13", "17:00:00", "18:00:00"));
+array_push($courselist['yoga']['courses'], customYogaCourse(8, "2024-01-05", "2024-03-01", "17:00:00", "18:00:00"));
 array_push($courselist['yoga']['courses'], customYogaCourse(8, "2024-03-08", "2024-05-03", "17:00:00", "18:00:00"));
 array_push($courselist['yoga']['courses'], customYogaCourse(8, "2024-05-10", "2024-06-28", "17:00:00", "18:00:00"));
 
-array_push($courselist['yogaMitKind']['courses'], customYogaMitKind(8, "2024-01-25", "2024-03-15", "12:00:00", "13:00:00"));
+array_push($courselist['yogaMitKind']['courses'], customYogaMitKind(8, "2024-01-24", "2024-03-13", "12:00:00", "13:00:00"));
 array_push($courselist['yogaMitKind']['courses'], customYogaMitKind(8, "2024-03-20", "2024-05-22", "12:00:00", "13:00:00"));
 
 array_push($courselist['windel']['courses'], customWindelCourse(1, "2023-11-18", "2023-11-18", "10:00:00", "12:30:00"));
