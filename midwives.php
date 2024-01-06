@@ -60,15 +60,6 @@ Gespräch!
         </p>
     </section>
 
-    <section>
-        <h2>Notfallfortbildung für Fachpersonal</h2>
-
-        <p>
-            Am 27.10.2023 findet eine Notfallfortbildung für Fachpersonal in der Hebammenpraxis Oststadt statt.
-        </p>
-
-        <div><a href="https://simutrain.org/kurstermine/" class="btn">Zur Anmeldung</a></div>
-    </section>
 </main>
 
 <?php include 'templates/footer.php'; ?>

@@ -23,6 +23,9 @@ include 'templates/head.php';
         bieten wir Hausbesuche sowie individuelle Termine in der Praxis, Rückbildung 
         in Kursen oder Einzeltraining an.
       </p>
+      <p>
+        Wir sind ein Ausbildungsbetrieb. Mehrmals im Jahr begleiten uns Studierende für Hebammenwissenschaften bei unserer Arbeit.
+      </p>
       <a href="courses<?= $suffix ?>" class="btn">Zur Buchung</a>
     </div>
 
@@ -40,17 +43,29 @@ include 'templates/head.php';
   <section id="news">
     <h2>Aktuelles aus der Praxis</h2>
 
-    <h3>Es gibt neue Kursangebote:</h3>
+    <h3>Betreuungspauschale</h3>
+    <p>
+      Um die aktuell gestiegenen Kosten decken zu können, sowie Euch weiterhin gut zu begleiten, 
+      erheben wir für Betreuungen eine freiwillige Betreuungspauschale von einmalig 80,- Euro pro betreuter Familie. 
+    </p>
+    <p>
+      Diese wird von den Familien gezahlt, die uns so unterstützen möchten, dass wir den hohen Standard unserer Arbeit weiterhin aufrecht erhalten können. 
+      Der Wunsch nach einer adäquaten, kontinuierlichen und qualitativ hochwertigen Betreuung liegt dem zugrunde. Die Zahlung der Betreuungspauschale stellt
+       kein Betreuungskriterium dar! Wir bieten Betreuung am Wochenende, Feiertagen und Ferien, Erreichbarkeit über Mobiltelefon tagsüber, Vertretung im Krankheitsfall, 
+       Urlaub, bei Fortbildung usw. Zur Zeit gibt es kein Entgegenkommen seitens der Krankenkasse bezüglich einer Erhöhung der Hebammengebühren um situationsgerecht 
+       in jeder Familie arbeiten zu können. 
+    </p>     
+    <p>
+       Die Pauschale ist freiwillig. Unser Betreungsangebot steht grundsätzlich allen Familien offen, 
+       limitierend sind unsere Kapazitäten. 
+    </p>
+    <p>
+       Kontoverbindung für die Betreuungspauschale : IBAN: DE79 2004 1177 0248 3733 00
+    </p>
+
+    <h3>Neue Kursangebote</h3>
 
     <ul>
-      <li>
-        <h4>Body and Soul</h4>
-        <p>Du möchtest eine kleine Auszeit von deinem Alltag und neue Energie tanken? Nur du allein? In diesem Kurs-Workshop stärkst du mit gezielten Übungen deine Mitte, deinen Beckenboden und den gesamten Körper. Gleichzeitig trainierst du Balance und Haltung. Abgerundet wird der Abend durch eine ausführliche Tiefenentspannung mit Hypnoseelementen. Es wird eine Zeit sein, in der du dich ganz auf dich und deinen Körper konzentrieren kannst!</p>
-      </li>
-      <li>
-        <h4>Good Morning Beckenboden</h4>
-        <p>Du möchtest keine zusätzlichen Wege oder wohnst nicht in der Nähe? Der Kurs richtet sich an alle Frauen, egal welchen Alters, die sich näher mit ihrem Beckenboden beschäftigen möchten. In diesem Live-Online-Kurs stärkst du in einer festen Gruppe mit sanften Übungen deine Mitte, Balance und Haltung. Die Gruppengröße lässt jederzeit auch Raum für Fragen.</p>
-      </li>
       <li>
         <h4>Babymassage – Papaedition</h4>
         <p>Hier sind alle Papas gefragt: Wenn ein Neugeborenes von Anfang an die Aufmerksamkeit des Vaters erfährt, kann es Vertrauen und eine tragfähige Beziehung zu ihm aufbauen. Die Babymassage – Papaedition bietet allen Väter die Möglichkeit Massagetechniken zu erlernen, die nonverbale Kommunikation zu fördern , Handlungssicherheiten aufzubauen und sich untereinander auszutauschen.</p>
@@ -60,8 +75,9 @@ include 'templates/head.php';
         <p>Du möchtest mit dem laufen (wieder) anfangen? Dein Rückbildungskurs ist abgeschlossen? Melde dich für den Laufkurs für Mütter in Mannheim an, unter der professionellen Leitung von Hebamme und Lauftrainierin Birgit Fremter.</p>
       </li>
       <li>
-        <h4>Babybauch - Yoga für Schwangere</h4>
-        <p>Babybauch - Yoga für Schwangere fördert das Wohlbefinden ganzheitlich und kann wunderbar unterstützen, in dieser Zeit mit Veränderungen besser zurechtzukommen und dadurch die Schwangerschaft und Geburt bewusster und aktiver erleben zu können.</p>
+        <h4>Geburtsvorbereitungskurs plus</h4>
+        <p>Du hast einen Geburtsvorberitungskurs besucht und möchtest diesen durch gezielte Übungen und Entspannungstechniken ergänzen?</p>
+        <p>In diesem Workshop erlernst oder vertiefst du die Wahrnehmung deines Beckenbodens in Verbindung mit deiner Atmung und stärkst deine Körpermitte. Am Ende erwartet dich eine ausführliche Entspannung mit Hypnoseelementen.</p>
       </li>
     </ul>
   </section>

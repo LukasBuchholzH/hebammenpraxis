@@ -58,7 +58,7 @@
         <? elseif ($course->available_space > 0): ?>
           <div><a href="<?= makeSignupUrl($courseid, $course->id) ?>" class="btn">Anmelden</a></div>
         <? else: ?>
-          <div>Ausgebucht</div>
+          <div><a href="<?= makeSignupUrl($courseid, $course->id) ?>" class="btn">Warteliste</a></div>
         <? endif; ?>
       </div>
     <? endforeach; ?>

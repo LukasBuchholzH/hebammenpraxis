@@ -89,6 +89,7 @@ include 'templates/head.php';
       <div id="profile-trainings-2">
         <h4>Fortbildungen</h4>
         <ul>
+          <li>aktuell in Weiterbildung zur Praxisanleiterin</li>  
           <li>Akupunktur für Hebammen (mehr als 100UE inkl.anerkannter Abschlussprüfung)</li>
           <li>Homöopathie in der Hebammenkunde</li>
           <li>Step and Fit in der Schwangerschaft</li>
