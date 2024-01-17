@@ -25,5 +25,5 @@ Die Babymassage beinhaltet: Massage gegen Blähungen und Koliken, Ganzkörpermas
 </p>
 
 <p>
-Mindestteilnehmeranzahl 5 Personen
+Du hast als Papa auch Interesse an der Babymassage? Schau gerne bei den Terminen der Papaedition vorbei. Sollte die Termine nicht passen, ist auch eine Teilnahme in der regulären Babymassage möglich.
 </p>

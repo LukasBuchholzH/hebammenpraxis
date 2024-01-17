@@ -10,5 +10,9 @@ Er ist für alles Fitnesslevel geeignet, da die Intensität und die Schwierigkei
 </p>
 
 <p>
+    Der Kurs gehört ganz dir und findet ohne Kind statt.
+</p>
+
+<p>
 Voraussetzung für die Teilnahme am Kurs ist ein abgeschlossener Rückbildungskurs.
 </p>

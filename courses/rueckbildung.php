@@ -14,3 +14,13 @@ Venentraining Körperarbeit, z.B. Entspannungsübungen
 <strong>Rückbildungskurs Abends:</strong>
 
 <p>In dieser Zeit kannst du dich ohne dein Kind voll auf die Übungen konzentrieren.</p>
+
+<strong>Geburtsvorbereitungungskurs plus</strong>
+
+<p>
+Du hast einen Geburtsvorberitungskurs besucht und möchtest diesen durch gezielte Übungen und Entspannungstechniken ergänzen?
+</p>
+
+<p>
+In diesem Workshop erlernst oder vertiefst du die Wahrnehmung deines Beckenbodens in Verbindung mit deiner Atmung und stärkst deine Körpermitte. Am Ende erwartet dich eine ausführliche Entspannung mit Hypnoseelementen.
+</p>

@@ -45,7 +45,7 @@
           <li><a href="courses<?= $suffix ?>#mamaworkout">Mamaworkout</a></li>
           <li><a href="courses<?= $suffix ?>#mamaworkoutindoor">Funktionelles Mamaworkout indoor</a></li>
           <!--<li><a href="courses<?= $suffix ?>#goodmorning">Good Morning Beckenboden</a></li>-->
-          <li><a href="courses<?= $suffix ?>#sportkurs">Sportkurs</a></li>
+          <li><a href="courses<?= $suffix ?>#sportkurs">Mom & Fitness - Das Bodyworkout</a></li>
           <li><a href="courses<?= $suffix ?>#stillvorbereitung">Stillvorbereitungskurs</a></li>
           <li><a href="courses<?= $suffix ?>#breikost">B(r)eikost Workshop</a></li>
           <li><a href="courses<?= $suffix ?>#windel">Stoffwindel-Workshop</a></li>
