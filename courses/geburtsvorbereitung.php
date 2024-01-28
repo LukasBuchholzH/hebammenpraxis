@@ -16,4 +16,13 @@ Vielen Dank!
 Kennenlernen von anderen in ähnlicher Situation, Körperarbeit zur Wahrnehmung der meist nebenherlaufenden Schwangerschaft und zur Vorbereitung auf diese neue Geburt, ein Rückblick auf die letzte Geburt und ein Einstimmen auf die Zeit mit mehreren Kindern zuhause.
 </p>
 
-
+<strong>Geburtsvorbereitungskurs plus</strong>
+<p>
+    Du hast einen Geburtsvorberitungskurs besucht und möchtest diesen durch gezielte Übungen und
+    Entspannungstechniken ergänzen?
+</p>
+<p>
+    In diesem Workshop erlernst oder vertiefst du die Wahrnehmung deines Beckenbodens in Verbindung 
+    mit deiner Atmung und stärkst deine Körpermitte. Am Ende erwartet dich eine ausführliche Entspannung
+    mit Hypnoseelementen.
+</p>
