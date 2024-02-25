@@ -16,3 +16,10 @@
     eine Zusammenfassung als Skript und seid optimal vorbereitet eure
     Stoffwindelreise zu beginnen.
 </p>
+
+<div>Kursleitung: Isabell Bauer</div>
+<div>Kursort: Hebammenpraxis Oststadt</div>
+<div>Kosten: 35€</div>
+<div>Paare: 55€</div>
+
+<div style="margin-right: 12px; margin-top: 32px;"><a href="https://gluecklichwickeln.de/anmeldung-workshop/" class="btn">Zur Anmeldung</a></div>

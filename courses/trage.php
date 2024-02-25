@@ -6,3 +6,9 @@ gesunde Babytragen. Alle gängigen Tragesysteme werden euch mit Vor- und Nachtei
 <p>
 Mein Name ist Lara Holldorf, ich bin zertifizierte Trageberaterin (Fachkraft für gesundes Babytragen), Inhaberin von Trageberatung Weinheim, Mama und Orthopädietechnikern und Eure Ansprechpartnerin für alle Fragen rund ums Babytragen.
 </p>
+
+<div>Kursleitung: Laura Holldorf</div>
+<div>Kursort: Hebammenpraxis Oststadt</div>
+<div>Kurskosten: 40€ pro Familie</div>
+
+<div style="margin-right: 12px; margin-top: 32px;"><a href="https://trageberatung-weinheim.de/" class="btn">Zur Anmeldung</a></div>

@@ -7,7 +7,7 @@
     <?php include 'courses/' . $courseid . '.php'; ?>
   </div>
 
-  <? if ($courseid != "notfallkurs"): ?>
+  <? if (count($courselist[$courseid]['courses']) > 0): ?>
     <h3>Aktuelle Termine</h3>
 
 

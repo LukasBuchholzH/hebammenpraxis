@@ -7,10 +7,13 @@
 </p>
 
 <p>
-    Bitte melde dich direkt über die Yogalehrerin Ivonne an: <a href="kontakt.yogatime@gmail.com">kontakt.yogatime@gmail.com</a>. 
-</p>
-
-<p>
     Ivonne ist 500h+ zertifizierte Yogalehrerin und der Kurs wurde nach § 20 Abs. 1 SGB V von der Zentrale Prüfstelle Prävention geprüft.
     Je nach Krankenkasse kannst du dir 80% - 100% der Kursgebühr von deiner gesetzlichen Krankenkasse erstatten lassen. 
 </p>
+
+
+<div>Kursleitung: Ivonne Scharff</div>
+<div>Kursort: Hebammenpraxis Oststadt</div>
+<div>Kusrkosten: 120€ - Erstattungsfähig über die Krankenkassen</div>
+
+<div style="margin-right: 12px; margin-top: 32px;"><a href="https://sites.google.com/view/yogatimemannheim/kurstermine" class="btn">Zur Anmeldung</a></div>
