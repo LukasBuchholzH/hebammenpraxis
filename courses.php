@@ -30,7 +30,7 @@ $courselist = array(
   "stillvorbereitung" => initCourse('Stillvorbereitungskurs', 'Stillvorbereitung'),
   "breikost" => initCourse('B(r)eikost Workshop', 'B(r)eikost'),
   "windel" => initCourse('Stoffwindel-Workshop', 'Stoffwindel-Workshop'),
-  "yoga" => initCourse('Babybauch - Yoga für Schwangere', 'Babybauch Yoga für Schwangere mit Ivonne'),
+  "yoga" => initCourse('Babybauch - Yoga für Schwangere', 'Hatha Yoga Flow für Schwangere'),
   "yogaMitKind" => initCourse('Yoga mit Kind', 'Yoga mit Kind'),
   //"bodyandsoul" => initCourse('Body and Soul', 'Body and Soul'),
   "laufkurs" => initCourse('Laufkurs für Mütter', 'Laufkurs'),
@@ -59,10 +59,10 @@ function customYogaCourse($num_dates, $start_date, $end_date, $time_start, $time
   array_push($dates, $end);
 
   return (object) array(
-    "title" => "Babybauch Yoga für Schwangere mit Ivonne",
+    "title" => "Hatha Yoga Flow für Schwangere",
     "instructor" => "Ivonne Scharff",
     "location" => (object) array("description" => "Hebammenpraxis Oststadt"),
-    "price" => 120,
+    "price" => 135,
     "price_addendum" => " - Erstattungsfähig über die Krankenkassen",
     "price_partner" => 0,
     "date_start" => $start_date,
