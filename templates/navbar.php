@@ -51,7 +51,7 @@
           <li><a href="courses<?= $suffix ?>#windel">Stoffwindel-Workshop</a></li>
           <li><a href="courses<?= $suffix ?>#trage">Trage-Workshop</a></li>
           
-          <li><a href="courses<?= $suffix ?>#yoga">Babybauch Yoga</a></li>
+          <li><a href="courses<?= $suffix ?>#yoga">Hatha Yoga Flow für Schwangere</a></li>
           <li><a href="courses<?= $suffix ?>#yogaMitKind">Yoga mit Kind</a></li>
           
           <!--<li><a href="courses<?= $suffix ?>#bodyandsoul">Body and Soul</a></li>-->
