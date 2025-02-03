@@ -15,7 +15,7 @@ Venentraining Körperarbeit, z.B. Entspannungsübungen
 
 <p>In dieser Zeit kannst du dich ohne dein Kind voll auf die Übungen konzentrieren.</p>
 
-<strong>Geburtsvorbereitungungskurs plus</strong>
+<strong>pränatales Empowerment mit hypnotischer Tiefenentspannung</strong>
 
 <p>
 Du hast einen Geburtsvorberitungskurs besucht und möchtest diesen durch gezielte Übungen und Entspannungstechniken ergänzen?
