@@ -16,7 +16,7 @@ Vielen Dank!
 Kennenlernen von anderen in ähnlicher Situation, Körperarbeit zur Wahrnehmung der meist nebenherlaufenden Schwangerschaft und zur Vorbereitung auf diese neue Geburt, ein Rückblick auf die letzte Geburt und ein Einstimmen auf die Zeit mit mehreren Kindern zuhause.
 </p>
 
-<strong>Geburtsvorbereitungskurs plus</strong>
+<strong>pränatales Empowerment mit hypnotischer Tiefenentspannung</strong>
 <p>
     Du hast einen Geburtsvorberitungskurs besucht und möchtest diesen durch gezielte Übungen und
     Entspannungstechniken ergänzen?
