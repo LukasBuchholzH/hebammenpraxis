@@ -63,23 +63,7 @@ include 'templates/head.php';
        Kontoverbindung für die Betreuungspauschale : IBAN: DE79 2004 1177 0248 3733 00
     </p>
 
-    <h3>Neue Kursangebote</h3>
 
-    <ul>
-      <li>
-        <h4>Babymassage – Papaedition</h4>
-        <p>Hier sind alle Papas gefragt: Wenn ein Neugeborenes von Anfang an die Aufmerksamkeit des Vaters erfährt, kann es Vertrauen und eine tragfähige Beziehung zu ihm aufbauen. Die Babymassage – Papaedition bietet allen Väter die Möglichkeit Massagetechniken zu erlernen, die nonverbale Kommunikation zu fördern , Handlungssicherheiten aufzubauen und sich untereinander auszutauschen.</p>
-      </li>
-      <li>
-        <h4>Laufend fit werden nach der Rückbildung</h4>
-        <p>Du möchtest mit dem laufen (wieder) anfangen? Dein Rückbildungskurs ist abgeschlossen? Melde dich für den Laufkurs für Mütter in Mannheim an, unter der professionellen Leitung von Hebamme und Lauftrainierin Birgit Fremter.</p>
-      </li>
-      <li>
-        <h4>Geburtsvorbereitungskurs plus</h4>
-        <p>Du hast einen Geburtsvorberitungskurs besucht und möchtest diesen durch gezielte Übungen und Entspannungstechniken ergänzen?</p>
-        <p>In diesem Workshop erlernst oder vertiefst du die Wahrnehmung deines Beckenbodens in Verbindung mit deiner Atmung und stärkst deine Körpermitte. Am Ende erwartet dich eine ausführliche Entspannung mit Hypnoseelementen.</p>
-      </li>
-    </ul>
   </section>
 
   <section id="contact">
