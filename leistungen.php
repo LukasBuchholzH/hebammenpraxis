@@ -56,7 +56,10 @@ include 'templates/head.php';
       Veränderungen im Körper, zu kontrollieren. Sollten Abweichungen auftreten, überweisen wir
       sie in die ärztliche Betreuung. 
     </p>
-
+    <h3 id="intervorsorge">Interdisziplinäre Vorsorge</h3>
+    <p>
+      
+    </p>
     <h3 id="beschwerden">Hilfe bei Schwangeschaftsbeschwerden</h3>
     <p>
       Eine Schwangerschaft ist ein ganz natürlicher Prozess im Leben einer Frau
@@ -107,7 +110,7 @@ include 'templates/head.php';
       ist ebenfalls eine individuelle Betreuung möglich.
     </p>
 
-    <h3>Stillberatung</h3>
+    <h3 id="stillberatung">Stillberatung</h3>
     <p>
       Nach dem Wochenbett können immer wieder Fragen zur Stillzeit auftauchen.
       Was mach ich, wenn sich ein Milchstau bildet? Wie lange sollte ich mein Baby (voll-)stillen? 
@@ -122,7 +125,7 @@ include 'templates/head.php';
       Klicke <a href="courses<?= $suffix ?>#stillvorbereitung">hier</a>, um zur Terminauswahl und der Buchung des Kurses zu gelangen. 
     </p>
 
-    <h3>Beikostberatung</h3>
+    <h3 id="beikost">Beikostberatung</h3>
 
     <p>Wann und wie geht es weiter nach der Milch?
       Mit rund 6 Monaten sind die Kinder bereit für die Einführung von Beikost nach Bedarf. Dabei können viele Fragen auftreten:
