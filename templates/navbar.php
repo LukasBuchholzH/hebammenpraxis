@@ -14,7 +14,17 @@
       <li><a href="leistungen<?= $suffix ?>">Leistungen</a>
         <ul>
           <li><a href="leistungen<?= $suffix ?>#leistung-schwangerschaft">Schwangerschaft</a></li>
+          
+            <li class="sublink"><a href="leistungen<?= $suffix ?>#vorsorge">Schwangerenvorsorge</a></li>
+            <li class="sublink"><a href="leistungen<?= $suffix ?>#intervorsorge">Interdisziplinäre Schwangerenvorsorge</a></li>
+            <li class="sublink"><a href="leistungen<?= $suffix ?>#beschwerden">Hilfe bei Beschwerden</a></li>
+          
           <li><a href="leistungen<?= $suffix ?>#leistung-wochenbett">Zeit nach der Geburt</a></li>
+          
+            <li class="sublink"><a href="leistungen<?= $suffix ?>#wochenbett">Wochenbett</a></li>
+            <li class="sublink"><a href="leistungen<?= $suffix ?>#stillberatung">Stillberatung</a></li>
+            <li class="sublink"><a href="leistungen<?= $suffix ?>#beikost">Beikostberatung</a></li>
+          
           <li><a href="leistungen<?= $suffix ?>#leistung-zusatz">Zusatzleistungen:</a></li>
 
             <li class="sublink"><a href="leistungen<?= $suffix ?>#leistung-akupunktur">Akupunktur</a></li>
