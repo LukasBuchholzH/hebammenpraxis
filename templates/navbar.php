@@ -52,7 +52,7 @@
           <li><a href="courses<?= $suffix ?>#notfallkurs">Baby- und Kindernotfallkurs</a></li>
           <!--<li><a href="courses<?= $suffix ?>#barre">Barré Mom Fit</a></li>-->
           <li><a href="courses<?= $suffix ?>#mamaworkoutbauch">Mamaworkout pränatal</a></li>
-          <li><a href="courses<?= $suffix ?>#mamaworkout">Mamaworkout</a></li>
+          <li><a href="courses<?= $suffix ?>#mamaworkout">Mamaworkout Outdoor</a></li>
           <li><a href="courses<?= $suffix ?>#mamaworkoutindoor">Funktionelles Mamaworkout indoor</a></li>
           <!--<li><a href="courses<?= $suffix ?>#goodmorning">Good Morning Beckenboden</a></li>-->
           <li><a href="courses<?= $suffix ?>#sportkurs">Mom & Fitness - Das Bodyworkout</a></li>
