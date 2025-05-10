@@ -299,7 +299,15 @@ include 'templates/head.php';
     Anfragen für ein Coaching gerne unter: <a href="mailto:hebamme.birgit.fremter@web.de">hebamme.birgit.fremter@web.de</a>
     </p>
 
+    <h3 id="leistung-beckenbodensprech">Beckenbodensprechstunde</h3>
+    <p>
+      
+    </p>
 
+    <p>
+      
+    </p>
+    
   </section>
 
 </main>
