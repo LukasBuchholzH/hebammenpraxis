@@ -308,20 +308,21 @@ include 'templates/head.php';
     <p>
       Mein Name ist Stella Troilo, ich bin Fachärztin für Gynäkologie und Geburtshilfe und in einer Praxis tätig.
       In der Klinik lernt man wenig über die konservativen (nicht-operativen) Behandlungsmöglichkeiten, so dass ich mich in meiner Praxislaufbahn aktiv durch Fortbildungen, Kongresse und Workshops immer mehr in die konservative Therapie der Beckenbodenschwäche eingearbeitet habe.
-      Da der normale Praxisalltag kaum Zeit für dieses Anliegen gibt, biete ich eine Beckenbodensprechstunde an. 
-      Mir liegt am Herzen, dass du durch eine ausführliche Beratung und Untersuchung Therapiemöglichkeiten und Verständnis für deinen individuellen Beckenboden bekommst. 
-      Was kannst du verbessern? Welche Hilfsmittel/Physiotherapie/Trainingsgeräte sind passend? 
+      Da der normale Praxisalltag kaum Zeit für dieses Anliegen gibt, biete ich eine Beckenbodensprechstunde an.</p>
+      <p>
+      Mir liegt am Herzen, dass du durch eine ausführliche Beratung und Untersuchung Therapiemöglichkeiten und Verständnis für deinen individuellen Beckenboden bekommst.
+      </p> 
+      <p>Was kannst du verbessern? Welche Hilfsmittel/Physiotherapie/Trainingsgeräte sind passend? 
       Und was wird dein Beckenboden vielleicht auch nicht mehr leisten können? 
-      In dieser Sprechstunde schauen wir ganz individuell, wie du deine Lebensqualität verbessern kannst.  
-    </p>
+      In dieser Sprechstunde schauen wir ganz individuell, wie du deine Lebensqualität verbessern kannst. 
+      </p>     
 
     <p>
       Kontakt: <a href="mailto:beckenboden.mannheim@gmail.com">beckenboden.mannheim@gmail.com</a> 
-
       Per Whatsapp +49 15560 951484 
-
-      Mehr Infos findest du auf meiner Homepage: <a href="www.stressreliefmannheim.de">www.stressreliefmannheim.de</a>
     </p>
+    <p>Mehr Infos findest du auf meiner Homepage: <a href="https://www.stressreliefmannheim.de">www.stressreliefmannheim.de</a>
+    </p>      
     
   </section>
 
