@@ -60,7 +60,7 @@ include 'templates/head.php';
        limitierend sind unsere Kapazitäten. 
     </p>
     <p>
-       Kontoverbindung für die Betreuungspauschale : IBAN: DE79 2004 1177 0248 3733 00
+       Kontoverbindung für die Betreuungspauschale : IBAN: DE94 6704 0031 0710 5042 00
     </p>
 
 
