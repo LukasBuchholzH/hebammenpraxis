@@ -17,7 +17,7 @@ function initCourse($title, $keyword) {
 $courselist = array(
   "rueckbildung" => initCourse('Rückbildungskurse', 'Rückbildung'),
   "geburtsvorbereitung" => initCourse('Geburtsvorbereitung', 'Geburtsvorbereitung'),
-  "extrageburtsvorbereitung" => initCourse('Weitere Geburtsvorbereitungskurse', ''),
+  "extrageburtsvorbereitung" => initCourse('Weitere Geburtsvorbereitungskurse', 'Extra'),
   "babymassagepapa" => initCourse('Babymassage - Papaedition', 'Babymassage - Papaedition'),
   "babymassage"  => initCourse('Babymasage', 'Babymassage'),
   "akupunktur" => initCourse('Akupunktur', 'Akupunktur'),
