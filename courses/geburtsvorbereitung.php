@@ -12,7 +12,7 @@ Vielen Dank!
 
 <strong>Geburtsvorbereitung für Mehrgebärende</strong>
 <p>
-3 Abende für euch als Schwangere mit dem zweiten (oder weiteren) Kind. 
+Drei Abende für euch als Schwangere mit dem zweiten (oder weiteren) Kind. und ab Herbst ein weiterer Termin, bei dem BEI DIESEM KURSTYP auf Wunsch eine Begleitung mitgebracht werden kann, aber nicht muss.
 Kennenlernen von anderen in ähnlicher Situation, Körperarbeit zur Wahrnehmung der meist nebenherlaufenden Schwangerschaft und zur Vorbereitung auf diese neue Geburt, ein Rückblick auf die letzte Geburt und ein Einstimmen auf die Zeit mit mehreren Kindern zuhause.
 </p>
 
