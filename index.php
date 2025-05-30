@@ -76,7 +76,7 @@ include 'templates/head.php';
     <div id="contact-info">
 
       <p>
-        Für Betreuungsanfragen kontaktieren Sie uns bitte per <a href="mailto:info@hebammenpraxis-oststadt.de"><strong>EMail</strong></a>. Wir benötigen folgende Informationen
+        Für Betreuungsanfragen kontaktieren Sie uns bitte per <a href="mailto:info@hebammenpraxis-oststadt.de"><strong>Email</strong></a>. Wir benötigen folgende Informationen
         von Ihnen:
 
         <ul>
@@ -86,7 +86,7 @@ include 'templates/head.php';
         </ul>
       </p>
 
-      <p id="email">EMail: info@hebammenpraxis-oststadt.de</p>
+      <p id="email">Email: info@hebammenpraxis-oststadt.de</p>
 
       <p id="address">Adresse: Lameystraße 5, 68165 Mannheim</p>
     </div>
