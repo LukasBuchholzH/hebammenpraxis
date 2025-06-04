@@ -11,9 +11,9 @@ function makeSignupUrl($courseid, $hebamioid) {
 
 function loadCourses($save, $loadcache) {
   if ($loadcache) {
-    $courses_url = 'https://hebammenpraxisoststadt.hebamio.de/api/courses', 'https://pischedda.hebamio.de/api/courses';
-    $details_url = 'https://hebammenpraxisoststadt.hebamio.de/api/course-detail/', 'https://pischedda.hebamio.de/api/course-detail';
-    $apikey = '?api_key=wGsU55aTz2qJ9gMDiiPSzQHZDEFLgsoy5Qgqz84QnlK5kyxymX6bDlymrUeA','?api_key=psiqZipwOBLIMDPfVlse2xyl7q7ijWSjOd2RdXSjBnoQ01L6F9l8uqDHUIkZ';
+    $courses_url = 'https://hebammenpraxisoststadt.hebamio.de/api/courses';
+    $details_url = 'https://hebammenpraxisoststadt.hebamio.de/api/course-detail/';
+    $apikey = '?api_key=wGsU55aTz2qJ9gMDiiPSzQHZDEFLgsoy5Qgqz84QnlK5kyxymX6bDlymrUeA';
 
     $courses = json_decode(file_get_contents($courses_url . $apikey));
 
