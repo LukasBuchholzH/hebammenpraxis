@@ -10,39 +10,42 @@ function makeSignupUrl($courseid, $hebamioid) {
 }
 
 function loadCourses($save, $loadcache) {
-  if ($loadcache) {
-    $courses_url = 'https://hebammenpraxisoststadt.hebamio.de/api/courses';
-    $details_url = 'https://hebammenpraxisoststadt.hebamio.de/api/course-detail/';
-    $apikey = '?api_key=wGsU55aTz2qJ9gMDiiPSzQHZDEFLgsoy5Qgqz84QnlK5kyxymX6bDlymrUeA';
-
-    $courses = json_decode(file_get_contents($courses_url . $apikey));
-
-    $counter = 0;
+    $courses_urls = ['https://hebammenpraxisoststadt.hebamio.de/api/courses', 'https://pischedda.hebamio.de/api/courses'];
+    $details_urls = ['https://hebammenpraxisoststadt.hebamio.de/api/course-detail/', 'https://pischedda.hebamio.de/api/course-detail'; ];
+    $apikeys = ['?api_key=wGsU55aTz2qJ9gMDiiPSzQHZDEFLgsoy5Qgqz84QnlK5kyxymX6bDlymrUeA','?api_key=psiqZipwOBLIMDPfVlse2xyl7q7ijWSjOd2RdXSjBnoQ01L6F9l8uqDHUIkZ';];
 
     $course_details = array();
-    foreach ($courses as $course) {
-      $counter = $counter + 1;
 
-      if ($counter % 45 == 0) {
-        sleep(300);
-      }
+    if ($loadcache) {
+         for ($i = 0; $i < count($courses_urls); $i++) {
+            $courses = json_decode(file_get_contents($courses_urls[$i] . $apikeys[$i]));
+            if (!is_array($courses)) continue; // Fehlerbehandlung
 
-      $url = $details_url . $course->id . $apikey;
-      $details = json_decode(file_get_contents($url));
+            $counter = 0;
 
-      array_push($course_details, $details);
+            for ($j = 0; $j < count($courses); $j++) {
+                $counter++;
+                if ($counter % 45 == 0) {
+                    sleep(300);
+                }
+
+                $url = $details_urls[$i] . $courses[$j]->id . $apikeys[$i];
+                $details = json_decode(file_get_contents($url));
+                array_push($course_details, $details);
+            }
+        }
+
+        if ($save) {
+            $json = json_encode($course_details);
+            file_put_contents('courses-cache.json', $json);
+        }
+    } else {
+        $course_details = json_decode(file_get_contents('courses-cache.json'));
     }
-    if ($save) {
-      $json = json_encode($course_details);
-      file_put_contents('courses-cache.json', $json);
-    }
-  } else {
-    $course_details = json_decode(file_get_contents('courses-cache.json'));
-  }
 
-  uasort($course_details, 'lesserStartDate');
+    uasort($course_details, 'lesserStartDate');
 
-  return $course_details;
+    return $course_details;
 }
 
 function germanDay($dayStringEn) {
