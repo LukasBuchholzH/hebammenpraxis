@@ -11,3 +11,4 @@ php\php.exe -c php\php.ini-development midwives.php > deploy\midwives.html
 echo F | xcopy /Y impressum.html deploy\impressum.html
 xcopy /Y /S css deploy\css\
 xcopy /Y /S img deploy\img\
+xcopy /Y /S downloads deploy\downloads\
