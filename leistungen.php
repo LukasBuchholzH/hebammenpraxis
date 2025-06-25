@@ -62,7 +62,7 @@ include 'templates/head.php';
 Im Rahmen der gemeinsamen Schwangerenvorsorge finden die Termine im Wechsel statt: einmal bei Frau Lauinger-Lörsch und einmal bei den Hebammen der Hebammenpraxis Oststadt. In diesem Setting haben wir die Möglichkeit, individuell auf Ihre Bedürfnisse einzugehen und uns ausreichend Zeit für Sie zu nehmen. Darüber hinaus, können wir bei jeglichen Beschwerden in der Schwangerschaft Hilfe leisten.
 <p>Desweiteren bieten wir in Kooperation mit dem Labor Limbach alle serologischen Untersuchungen in beiden Praxen an.</p>
 
-<p> <a href="downloads/Flyer Vorsorge.pdf">Flyer</a></p>
+<p> <a href="img/Flyer Vorsorge.pdf">Flyer</a></p>
 
 
 <p>So funktionierts:</p>
