@@ -15,11 +15,11 @@ Venentraining Körperarbeit, z.B. Entspannungsübungen
 
 <p>In dieser Zeit kannst du dich ohne dein Kind voll auf die Übungen konzentrieren.</p>
 
-<strong>Rückbildung Crashkurs</strong>
+<strong>Rückbildung Crashkurs:</strong>
 
 <p>Die Rückbildung im Crashkurs-Format umfasst insgesamt 8 Termine und bietet die gleichen Inhalte wie unser regulärer Kurs. Der Unterschied besteht darin, dass die Termine zweimal pro Woche stattfinden, sodass der Kurs in nur 4 Wochen abgeschlossen ist.</p>
 
-<strong>pränatales Empowerment mit hypnotischer Tiefenentspannung</strong>
+<strong>pränatales Empowerment mit hypnotischer Tiefenentspannung:</strong>
 
 <p>
 Du hast einen Geburtsvorbereitungskurs besucht und möchtest diesen durch gezielte Übungen und Entspannungstechniken ergänzen?
@@ -28,4 +28,6 @@ Du hast einen Geburtsvorbereitungskurs besucht und möchtest diesen durch geziel
 <p>
 In diesem Workshop erlernst oder vertiefst du die Wahrnehmung deines Beckenbodens in Verbindung mit deiner Atmung und stärkst deine Körpermitte. Am Ende erwartet dich eine ausführliche Entspannung mit Hypnoseelementen.
 </p>
+</br>
+<strong>Hinweis:</strong>
 <p>Die Anmeldung zu den Rückbildungskursen ist <strong>ausschließlich</strong> nach der Geburt möglich.</br> Anmeldungen vor der Geburt können leider nicht berücksichtigt werden. Wir bitten um Verständnis.</p>
