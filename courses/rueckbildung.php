@@ -28,3 +28,4 @@ Du hast einen Geburtsvorbereitungskurs besucht und möchtest diesen durch geziel
 <p>
 In diesem Workshop erlernst oder vertiefst du die Wahrnehmung deines Beckenbodens in Verbindung mit deiner Atmung und stärkst deine Körpermitte. Am Ende erwartet dich eine ausführliche Entspannung mit Hypnoseelementen.
 </p>
+<p>Die Anmeldung zu den Rückbildungskursen ist <strong>ausschließlich</strong> nach der Geburt möglich.</br> Anmeldungen vor der Geburt können leider nicht berücksichtigt werden. Wir bitten um Verständnis.</p>
