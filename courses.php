@@ -17,18 +17,13 @@ function initCourse($title, $keyword) {
 $courselist = array(
   "rueckbildung" => initCourse('Rückbildungskurse', 'Rückbildung'),
   "geburtsvorbereitung" => initCourse('Geburtsvorbereitung', 'Geburtsvorbereitung'),  
-  //"babymassagepapa" => initCourse('Babymassage - Papaedition', 'Babymassage - Papaedition'),
   "babymassage"  => initCourse('Babymassage', 'Babymassage'),
   "akupunktur" => initCourse('Akupunktur', 'Akupunktur'),
-  "notfallkurs" => initCourse('Baby- und Kindernotfallkurs', 'Kindernotfallkurs'),
-  //"barre" => initCourse('Barré Mom Fit', 'Barr'),
+  "notfallkurs" => initCourse('Baby- und Kindernotfallkurs', 'Kindernotfallkurs'),  
   "mamaworkoutbauch"=> initCourse('Mamaworkout Prenatal', 'Mamaworkout prenatal'),
   "mamaworkoutindoor" => initCourse('Funktionelles Mamaworkout indoor', 'Mamaworkout indoor'),
-  "mamaworkout" => initCourse('Mamaworkout Outdoor', 'Mamaworkout outdoor'),
-  //"goodmorning" => initCourse('Good Morning Beckenboden', 'Good Morning Beckenboden'),
-  "sportkurs" => initCourse('Mom & Fitness - Das Bodyworkout', 'Mom & Fitness'),  
-  "breikost" => initCourse('B(r)eikost Workshop', 'B(r)eikost'),
-  //"windel" => initCourse('Stoffwindel-Workshop', 'Stoffwindel-Workshop'),
+  "mamaworkout" => initCourse('Mamaworkout Outdoor', 'Mamaworkout outdoor'),  
+  "sportkurs" => initCourse('Mom & Fitness - Das Bodyworkout', 'Mom & Fitness'),    
   "yoga" => initCourse('Hatha Yoga Flow für Schwangere', 'Hatha Yoga Flow für Schwangere'),
   "yogaMitKind" => initCourse('Yoga mit Kind', 'Yoga mit Kind'),
   //"bodyandsoul" => initCourse('Body and Soul', 'Body and Soul'),  
@@ -209,4 +204,5 @@ include 'templates/head.php';
 
 </body>
 </html>
+
 
