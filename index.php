@@ -43,7 +43,7 @@ include 'templates/head.php';
   <section id="news">
     <h2>Aktuelles aus der Praxis</h2>
     
-<p>Neue Sportkurse mit und ohne Baby online. Es gibt noch freie Plätze. Zur Anmeldung geht es<a href="courses<?= $suffix ?>#mamaworkout">hier</a>.</p>
+<p>Neue Sportkurse mit und ohne Baby online. Es gibt noch freie Plätze. Zur Anmeldung geht es <a href="courses<?= $suffix ?>#mamaworkout">hier</a>.</p>
     
     <h3>Betreuungspauschale</h3>
     <p>
@@ -93,6 +93,7 @@ include 'templates/head.php';
 
 </body>
 </html>
+
 
 
 
