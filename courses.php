@@ -16,8 +16,7 @@ function initCourse($title, $keyword) {
 
 $courselist = array(
   "rueckbildung" => initCourse('Rückbildungskurse', 'Rückbildung'),
-  "geburtsvorbereitung" => initCourse('Geburtsvorbereitung', 'Geburtsvorbereitung'),
-  "zusatzkurse" => initCourse('Weitere Termine im Juli/August', 'Zusatzkurse'),
+  "geburtsvorbereitung" => initCourse('Geburtsvorbereitung', 'Geburtsvorbereitung'),  
   //"babymassagepapa" => initCourse('Babymassage - Papaedition', 'Babymassage - Papaedition'),
   "babymassage"  => initCourse('Babymassage', 'Babymassage'),
   "akupunktur" => initCourse('Akupunktur', 'Akupunktur'),
@@ -27,15 +26,12 @@ $courselist = array(
   "mamaworkoutindoor" => initCourse('Funktionelles Mamaworkout indoor', 'Mamaworkout indoor'),
   "mamaworkout" => initCourse('Mamaworkout Outdoor', 'Mamaworkout outdoor'),
   //"goodmorning" => initCourse('Good Morning Beckenboden', 'Good Morning Beckenboden'),
-  "sportkurs" => initCourse('Mom & Fitness - Das Bodyworkout', 'Mom & Fitness'),
-  "stillvorbereitung" => initCourse('Stillvorbereitungskurs', 'Stillvorbereitung'),
+  "sportkurs" => initCourse('Mom & Fitness - Das Bodyworkout', 'Mom & Fitness'),  
   "breikost" => initCourse('B(r)eikost Workshop', 'B(r)eikost'),
   //"windel" => initCourse('Stoffwindel-Workshop', 'Stoffwindel-Workshop'),
   "yoga" => initCourse('Hatha Yoga Flow für Schwangere', 'Hatha Yoga Flow für Schwangere'),
   "yogaMitKind" => initCourse('Yoga mit Kind', 'Yoga mit Kind'),
-  //"bodyandsoul" => initCourse('Body and Soul', 'Body and Soul'),
-  "laufkurs" => initCourse('Laufkurs für Mütter', 'Laufkurs'),
-  "trage" => initCourse('Trage-Workshop', 'Trage-Workshop'),
+  //"bodyandsoul" => initCourse('Body and Soul', 'Body and Soul'),  
   "weitere" => initCourse('Weitere Kurse', '')
 );
 
@@ -213,3 +209,4 @@ include 'templates/head.php';
 
 </body>
 </html>
+
