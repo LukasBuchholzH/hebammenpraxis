@@ -21,3 +21,4 @@ Du bereitest Deinen Körper auf die Geburt vor.
 <p>
 Der Kurs ist für alle Schwangeren von der 12. - 40. Schwangerschaftswoche geeignet.
 </p>
+<p>Dieser Kurs ist von der Zentralen Prüfstelle Prävention gemäß § 20 Abs. 1 SGB V zertifiziert (kräftigende Beckenbodengymnastik) und deshalb von allen gesetzlichen Krankenkassen bezuschussungsfähig.</p>
