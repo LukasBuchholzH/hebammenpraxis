@@ -15,3 +15,5 @@ Dein Baby darf gerne im Kinderwagen oder der Trage mitkommen! Das Besondere an d
 <p>
 Voraussetzungen: abgeschlossener Rückbildungskurs wetterfeste, atmungsaktive Kleidung, geeignetes Schuhwerk.
 </p>
+<p>Dieser Kurs ist von der Zentralen Prüfstelle Prävention gemäß § 20 Abs. 1 SGB V zertifiziert (kräftigende Beckenbodengymnastik) und deshalb von allen gesetzlichen Krankenkassen bezuschussungsfähig.</p>
+
