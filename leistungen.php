@@ -57,26 +57,20 @@ include 'templates/head.php';
       sie in die ärztliche Betreuung. 
     </p>
     <h3 id="intervorsorge">Interdisziplinäre Vorsorge</h3>
-    <p>
-      Die Schwangerenvorsorge dient der Überwachung des Verlaufes der Schwangerschaft und orientiert sich an den Mutterschaftsrichtlinien des Gemeinsamen Bundesausschusses der Ärzte und Krankenkassen für Schwangerschaft, Geburt und Wochenbett.
-Im Rahmen der gemeinsamen Schwangerenvorsorge finden die Termine im Wechsel statt: einmal bei Frau Lauinger-Lörsch und einmal bei den Hebammen der Hebammenpraxis Oststadt. In diesem Setting haben wir die Möglichkeit, individuell auf Ihre Bedürfnisse einzugehen und uns ausreichend Zeit für Sie zu nehmen. Darüber hinaus, können wir bei jeglichen Beschwerden in der Schwangerschaft Hilfe leisten.
-<p>Desweiteren bieten wir in Kooperation mit dem Labor Limbach alle serologischen Untersuchungen in beiden Praxen an.</p>
+    <p>Die Schwangerenvorsorge dient der Überwachung des Verlaufes der Schwangerschaft und orientiert sich an den Mutterschaftsrichtlinien des Gemeinsamen Bundesausschusses der Ärzte und Krankenkassen für Schwangerschaft, Geburt und Wochenbett.</p>
+    <p>Im Rahmen der gemeinsamen Schwangerenvorsorge finden die Termine im Wechsel statt: einmal bei Frau Lauinger-Lörsch und einmal bei den Hebammen der Hebammenpraxis Oststadt. </p>
+    <p>In diesem Setting haben wir die Möglichkeit, individuell auf Ihre Bedürfnisse einzugehen und uns ausreichend Zeit für Sie zu nehmen. Darüber hinaus können wir bei jeglichen Beschwerden in der Schwangerschaft Hilfe leisten.</p>
+    <p>Des Weiteren bieten wir in Kooperation mit dem Labor Limbach alle serologischen Untersuchungen in beiden Praxen an.</p>
+    <p style="font-style: italic">Die Interdisziplinäre Schwangerenvorsorge ist keine Verpflichtung.</p>
+    
+    <h4>So funktionierts:</h4>  
+    
+    <p>Die Vorsorgeuntersuchungen erfolgen an zwei nah beieinanderliegenden Standorten. Bitte nutzen Sie die bereitgestellten QR-Codes auf dem Flyer oder die untenstehenden Links, um einen Termin für die Vorsorge bei Fr. Lauinger-Lörsch oder bei den Hebammen der Hebammenpraxis Oststadt zu vereinbaren:</p>
+    <p><a href="https://hebammenpraxisoststadt.hebamio.de/termine">Hebammenpraxis</a></p>
+    <p><a href="https://www.gynplus-mannheim.de/schwangerenbetreuung/">Frauenarztpraxis</a></p>
+    <p> <a href="img/Flyer Vorsorge.pdf">Flyer</a></p>
+    <p>Sie haben Interesse an einer interdisziplinären Schwangerenvorsorge und werden derzeit von einem anderen Frauenarzt oder einer anderen Frauenärztin betreut. Bitte sprechen Sie Ihren behandelnden Arzt oder Ihre behandelnde Ärztin darauf an, ob ebenfalls eine gemeinsame Durchführung der Vorsorgeuntersuchungen möglich ist.</p>
 
-<p> <a href="img/Flyer Vorsorge.pdf">Flyer</a></p>
-
-
-<p>So funktionierts:</p>
-
-  <p>Die Vorsorgeuntersuchungen erfolgen an zwei nahe beieinanderliegenden Standorten. 
-  Bitte nutzen Sie die bereitgestellten QR-Codes oder Links, um einen Termin für die Vorsorge bei Fr. Lauinger-Lörsch oder bei den Hebammen der Hebammenpraxis Oststadt zu vereinbaren
-  Für eine Terminvergabe nutzen Sie.</p>
-<p><a href="https://hebammenpraxisoststadt.hebamio.de/termine">Hebammenpraxis</a> </p>
-
-<p><a href="https://www.gynplus-mannheim.de/schwangerenbetreuung/">Frauenarztpraxis</a></p>
-
-<p>Sie haben Interesse an einer interdisziplinären Schwangerenvorsorge und werden derzeit von einem anderen Frauenarzt oder einer anderen Frauenärztin betreut. Bitte sprechen Sie Ihren behandelnden Arzt oder Ihre behandelnde Ärztin darauf an, ob ebenfalls eine gemeinsame Durchführung der Vorsorgeuntersuchungen möglich ist.
-
-    </p>
     <h3 id="beschwerden">Hilfe bei Schwangeschaftsbeschwerden</h3>
     <p>
       Eine Schwangerschaft ist ein ganz natürlicher Prozess im Leben einer Frau
@@ -349,3 +343,4 @@ Im Rahmen der gemeinsamen Schwangerenvorsorge finden die Termine im Wechsel stat
 
 </body>
 </html>
+
