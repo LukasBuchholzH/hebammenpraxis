@@ -46,27 +46,16 @@
       <li><a href="courses<?= $suffix ?>">Kurse</a>
         <ul>
           <li><a href="courses<?= $suffix ?>#rueckbildung">Rückbildungskurse</a></li>
-          <li><a href="courses<?= $suffix ?>#geburtsvorbereitung">Geburtsvorbereitung</a></li>
-          <!--<li><a href="courses<?= $suffix ?>#babymassagepapa" >Babymasage - Papaedition</a></li>-->
+          <li><a href="courses<?= $suffix ?>#geburtsvorbereitung">Geburtsvorbereitung</a></li>          
           <li><a href="courses<?= $suffix ?>#babymassage" >Babymasage</a></li>          
           <li><a href="courses<?= $suffix ?>#akupunktur">Akupunktur</a></li>
-          <li><a href="courses<?= $suffix ?>#notfallkurs">Baby- und Kindernotfallkurs</a></li>
-          <!--<li><a href="courses<?= $suffix ?>#barre">Barré Mom Fit</a></li>-->
-          <li><a href="courses<?= $suffix ?>#mamaworkoutbauch">Mamaworkout pränatal</a></li>
-          <li><a href="courses<?= $suffix ?>#mamaworkout">Mamaworkout Outdoor</a></li>
+          <li><a href="courses<?= $suffix ?>#notfallkurs">Baby- und Kindernotfallkurs</a></li>          
+          <li><a href="courses<?= $suffix ?>#mamaworkoutbauch">Mamaworkout pränatal</a></li>          
           <li><a href="courses<?= $suffix ?>#mamaworkoutindoor">Funktionelles Mamaworkout indoor</a></li>
-          <!--<li><a href="courses<?= $suffix ?>#goodmorning">Good Morning Beckenboden</a></li>-->
-          <li><a href="courses<?= $suffix ?>#sportkurs">Mom & Fitness - Das Bodyworkout</a></li>
-          <li><a href="courses<?= $suffix ?>#stillvorbereitung">Stillvorbereitungskurs</a></li>
-          <li><a href="courses<?= $suffix ?>#breikost">B(r)eikost Workshop</a></li>
-          <!--<li><a href="courses<?= $suffix ?>#windel">Stoffwindel-Workshop</a></li>-->
-          <li><a href="courses<?= $suffix ?>#trage">Trage-Workshop</a></li>
-          
+          <li><a href="courses<?= $suffix ?>#mamaworkout">Mamaworkout Outdoor</a></li>
+          <li><a href="courses<?= $suffix ?>#sportkurs">Mom & Fitness - Das Bodyworkout</a></li> 
           <li><a href="courses<?= $suffix ?>#yoga">Hatha Yoga Flow für Schwangere</a></li>
           <li><a href="courses<?= $suffix ?>#yogaMitKind">Yoga mit Kind</a></li>
-          
-          <!--<li><a href="courses<?= $suffix ?>#bodyandsoul">Body and Soul</a></li>-->
-          <li><a href="courses<?= $suffix ?>#laufkurs">Laufkurs für Mütter</a></li>
           <li><a href="courses<?= $suffix ?>#weitere">Weitere Kurse</a></li>
         </ul>
       </li>
@@ -77,4 +66,5 @@
     </ul>
   </nav>
 </header>
+
 
