@@ -18,6 +18,7 @@ Venentraining Körperarbeit, z.B. Entspannungsübungen
 <strong>Rückbildung Crashkurs:</strong>
 
 <p>Die Rückbildung im Crashkurs-Format umfasst insgesamt 8 Termine und bietet die gleichen Inhalte wie unser regulärer Kurs. Der Unterschied besteht darin, dass die Termine zweimal pro Woche stattfinden, sodass der Kurs in nur 4 Wochen abgeschlossen ist.</p>
+<p>Die Babys sind beim Crashkurs willkommen.</p>
 
 <strong>Pränatales Empowerment mit hypnotischer Tiefenentspannung:</strong>
 
@@ -31,3 +32,4 @@ In diesem Workshop erlernst oder vertiefst du die Wahrnehmung deines Beckenboden
 </br>
 <strong>Hinweis:</strong>
 <p>Die Anmeldung zu den Rückbildungskursen ist <strong>ausschließlich</strong> nach der Geburt möglich.</br> Anmeldungen vor der Geburt können leider nicht berücksichtigt werden.</br> Wir bitten um Verständnis.</p>
+
