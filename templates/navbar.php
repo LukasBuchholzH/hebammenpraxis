@@ -12,9 +12,10 @@
   <nav>
     <ul>
       <li><a href="leistungen<?= $suffix ?>">Leistungen</a>
+        <ul class="sublink"><a href="leistungen<?= $suffix ?>#sprechstunde">Die offene Sprechstunde</a></ul>
         <ul>
           <li><a href="leistungen<?= $suffix ?>#leistung-schwangerschaft">Schwangerschaft</a></li>
-          
+
             <li class="sublink"><a href="leistungen<?= $suffix ?>#vorsorge">Schwangerenvorsorge</a></li>
             <li class="sublink"><a href="leistungen<?= $suffix ?>#intervorsorge">Interdisziplinäre Schwangerenvorsorge</a></li>
             <li class="sublink"><a href="leistungen<?= $suffix ?>#beschwerden">Hilfe bei Beschwerden</a></li>
@@ -45,6 +46,7 @@
       </li>
       <li><a href="courses<?= $suffix ?>">Kurse</a>
         <ul>
+          <li><a href="courses<?= $suffix ?>#beckenboden">Beckenbodenpräventionskurs</a></li>
           <li><a href="courses<?= $suffix ?>#rueckbildung">Rückbildungskurse</a></li>
           <li><a href="courses<?= $suffix ?>#geburtsvorbereitung">Geburtsvorbereitung</a></li>          
           <li><a href="courses<?= $suffix ?>#babymassage" >Babymasage</a></li>          
@@ -66,5 +68,6 @@
     </ul>
   </nav>
 </header>
+
 
 
