@@ -44,7 +44,6 @@ include 'templates/head.php';
     <h2>Aktuelles aus der Praxis</h2>
     
 <p>Ab sofort bieten wir als eine weitere Leistung eine <a href="leistungen<?= $suffix ?>#leistung-sprechstunde">"offene Sprechstunde"</a> an.</p>
-//<p>Ebenfalls bieten wir ab sofort <a href="courses<?= $suffix ?>#beckenboden">Beckenbodenpräventionskurse</a> an.</p>   
     
     <h3>Betreuungspauschale</h3>
     <p>
@@ -94,6 +93,7 @@ include 'templates/head.php';
 
 </body>
 </html>
+
 
 
 
