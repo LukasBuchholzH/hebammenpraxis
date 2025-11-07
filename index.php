@@ -43,8 +43,8 @@ include 'templates/head.php';
   <section id="news">
     <h2>Aktuelles aus der Praxis</h2>
     
-<p>Neue Sportkurse mit und ohne Baby online. Es gibt noch freie Plätze. Zur Anmeldung geht es <a href="courses<?= $suffix ?>#mamaworkout">hier</a>.</p>
-    
+<p>Ab sofort bieten wir als eine weitere Leistung eine <a href="leistungen<?= $suffix ?>#leistung-sprechstunde">"offene Sprechstunde"</a> an.</p>
+   
     <h3>Betreuungspauschale</h3>
     <p>
       Um die aktuell gestiegenen Kosten decken zu können, sowie Euch weiterhin gut zu begleiten, 
@@ -93,6 +93,7 @@ include 'templates/head.php';
 
 </body>
 </html>
+
 
 
 
