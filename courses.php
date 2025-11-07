@@ -15,11 +15,11 @@ function initCourse($title, $keyword) {
 }
 
 $courselist = array(
+  "Beckenbodenpräventionskurs" => initCourse('Beckenboden', 'Beckenbodenprävention'),
   "rueckbildung" => initCourse('Rückbildungskurse', 'Rückbildung'),
   "geburtsvorbereitung" => initCourse('Geburtsvorbereitung', 'Geburtsvorbereitung'),  
   "babymassage"  => initCourse('Babymassage', 'Babymassage'),
-  "akupunktur" => initCourse('Akupunktur', 'Akupunktur'),
-  "notfallkurs" => initCourse('Baby- und Kindernotfallkurs', 'Kindernotfallkurs'),  
+  "akupunktur" => initCourse('Akupunktur', 'Akupunktur'),    
   "mamaworkoutbauch"=> initCourse('Mamaworkout Prenatal', 'Mamaworkout prenatal'),
   "mamaworkoutindoor" => initCourse('Funktionelles Mamaworkout indoor', 'Mamaworkout indoor'),
   "mamaworkout" => initCourse('Mamaworkout Outdoor', 'Mamaworkout outdoor'),  
@@ -204,5 +204,6 @@ include 'templates/head.php';
 
 </body>
 </html>
+
 
 
