@@ -19,7 +19,27 @@ include 'templates/head.php';
     </p>
 
   </section>
+<section id="leistung-sprechstunde">
+    <h2>Die offene Sprechstunde</h2>
 
+    <h3 id="sprechstunde">Offene Sprechstunde  - Beratung & Hilfeleistung rund um Schwangerschaft, Wochenbett und Stillzeit</h3>
+    <p>
+      Das Angebot richtet sich an alle Familien OHNE  Hebammenbetreuung (z.b weil keine Hebamme gefunden worden ist).
+    </p>
+ <p>
+Die offene Sprechstunde kann für einzelne Fragen, sowohl in Schwangerschaft, Wochenbett und Stillzeit genutzt werden. 
+Themen können unter anderem sein: Schwangerschaftsbeschwerden wie Übelkeit, Wassereinlagerung etc., individuelle Stillvorbereitung, Rückbildung und Wundheilung im Wochenbett, Gewichtszunahme beim Kind, Fragen zur Ernährung und Stillen.</p> 
+  <p>
+Die Sprechstunde kann als Kassenleistung (bei bestehender Versicherung) und als Privatleistung in Anspruch genommen werden.
+Für euer Anliegen, können wir uns eine Stunde Zeit nehmen.</p> 
+<p>
+Terminvereinbarung <a href="https://hebammenpraxisoststadt.hebamio.de/termine">„Hier“</a>
+</p> 
+<p>
+Im Kommentarfeld der Anmeldung bitten wir um eine kurze Beschreibung des Anliegens.
+</p>
+   </section>
+  
   <section id="leistung-schwangerschaft">
     <h2>Schwangerschaft</h2>
 
@@ -151,10 +171,7 @@ include 'templates/head.php';
     <p>
       Jede Frau hat die Möglichkeit im Rahmen der Hebammenbegleitung ein Termin für ein Beikostgespräch zu vereinbaren. 
       Zudem gibt es die Möglichkeit den Kurs "B(r)eikost" in der Hebammenpraxis Oststadt als Zusatzleistung zu besuchen.
-    </p>
-    <p> 
-      Bei Interesse am Kurs "B(r)eikost" klicke <a href="courses<?= $suffix ?>#breikost">hier</a>, um zu den Terminen und der Anmeldung zu gelangen.
-    </p>
+    </p>   
   </section>
 
   <section id="leistung-zusatz">
@@ -185,7 +202,7 @@ include 'templates/head.php';
     </p>
 
     <p>
-    Pro Sitzung benötigen wir ca 30 Minuten und ich erhebe eine Zuzahlung von 20€, die entweder bar oder auf Rechnung bezahlt werden kann.
+    Pro Sitzung benötigen wir ca. 30 Minuten und ich erhebe eine Gebühr von 25€, die entweder bar oder auf Rechnung bezahlt werden kann.
     </p>
 
     <a href="courses<?= $suffix ?>#akupunktur">Akupunktur Termin buchen</a>
@@ -343,4 +360,5 @@ include 'templates/head.php';
 
 </body>
 </html>
+
 
