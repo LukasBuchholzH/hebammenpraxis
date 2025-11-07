@@ -15,7 +15,7 @@ function initCourse($title, $keyword) {
 }
 
 $courselist = array(
-  "Beckenbodenpräventionskurs" => initCourse('Beckenboden', 'Beckenbodenprävention'),
+  "Beckenbodenpräventionskurs" => initCourse('Beckenbodenpräventionskurs', 'Beckenbodenpräventionskurs'),
   "rueckbildung" => initCourse('Rückbildungskurse', 'Rückbildung'),
   "geburtsvorbereitung" => initCourse('Geburtsvorbereitung', 'Geburtsvorbereitung'),  
   "babymassage"  => initCourse('Babymassage', 'Babymassage'),
@@ -204,6 +204,7 @@ include 'templates/head.php';
 
 </body>
 </html>
+
 
 
 
