@@ -12,8 +12,9 @@
   <nav>
     <ul>
       <li><a href="leistungen<?= $suffix ?>">Leistungen</a>
-        <ul class="sublink"><a href="leistungen<?= $suffix ?>#sprechstunde">Die offene Sprechstunde</a></ul>
+      
         <ul>
+          <li><a href="leistungen<?= $suffix ?>#leistung-sprechstunde">Die offene Sprechstunde</a></li>
           <li><a href="leistungen<?= $suffix ?>#leistung-schwangerschaft">Schwangerschaft</a></li>
 
             <li class="sublink"><a href="leistungen<?= $suffix ?>#vorsorge">Schwangerenvorsorge</a></li>
@@ -68,6 +69,7 @@
     </ul>
   </nav>
 </header>
+
 
 
 
