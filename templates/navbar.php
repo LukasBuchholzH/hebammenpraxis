@@ -51,8 +51,7 @@
           <li><a href="courses<?= $suffix ?>#rueckbildung">Rückbildungskurse</a></li>
           <li><a href="courses<?= $suffix ?>#geburtsvorbereitung">Geburtsvorbereitung</a></li>          
           <li><a href="courses<?= $suffix ?>#babymassage" >Babymasage</a></li>          
-          <li><a href="courses<?= $suffix ?>#akupunktur">Akupunktur</a></li>
-          <li><a href="courses<?= $suffix ?>#notfallkurs">Baby- und Kindernotfallkurs</a></li>          
+          <li><a href="courses<?= $suffix ?>#akupunktur">Akupunktur</a></li>                  
           <li><a href="courses<?= $suffix ?>#mamaworkoutbauch">Mamaworkout pränatal</a></li>          
           <li><a href="courses<?= $suffix ?>#mamaworkoutindoor">Funktionelles Mamaworkout indoor</a></li>
           <li><a href="courses<?= $suffix ?>#mamaworkout">Mamaworkout Outdoor</a></li>
@@ -69,6 +68,7 @@
     </ul>
   </nav>
 </header>
+
 
 
 
