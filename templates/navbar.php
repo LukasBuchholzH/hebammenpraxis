@@ -48,7 +48,7 @@
       <li><a href="courses<?= $suffix ?>">Kurse</a>
         <ul>
           <li><a href="courses<?= $suffix ?>#beckenboden">Beckenbodenpräventionskurs</a></li>
-          <li><a href="courses<?= $suffix ?>#rueckbildung">Rückbildungskurse</a></li>
+          <!-- <li><a href="courses<?= $suffix ?>#rueckbildung">Rückbildungskurse</a></li>  -->
           <li><a href="courses<?= $suffix ?>#geburtsvorbereitung">Geburtsvorbereitung</a></li>          
           <li><a href="courses<?= $suffix ?>#babymassage" >Babymasage</a></li>          
           <li><a href="courses<?= $suffix ?>#akupunktur">Akupunktur</a></li>                  
@@ -68,6 +68,7 @@
     </ul>
   </nav>
 </header>
+
 
 
 
