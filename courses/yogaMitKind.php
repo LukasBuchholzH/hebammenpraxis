@@ -8,6 +8,7 @@
 
 <div>Kursleitung: Ivonne Scharff</div>
 <div>Kursort: Hebammenpraxis Oststadt</div>
-<div>Kusrkosten: 155€ - Erstattungsfähig über die Krankenkassen</div>
+<div>Kusrkosten: 160€ - Die Erstattung über die Krankenkasse erfolgt nach Kursende. </div>
 
-<div style="margin-right: 12px; margin-top: 32px;"><a href="https://sites.google.com/view/yogatimemannheim/kurstermine" class="btn">Zur Anmeldung</a></div>
+<div style="margin-right: 12px; margin-top: 32px;"><a href="www.momoyoga.com/mahila/register" class="btn">Zur Anmeldung</a></div>
+<p>Um Deinen Platz zu reservieren, wähle nach der Registrierung auf momoyoga deinen Event aus und klicke auf "hol dir ein Ticket". Eine Stornierung und Rückerstattung des gezahlten Tickets ist selbstverständlich möglich.</p>
