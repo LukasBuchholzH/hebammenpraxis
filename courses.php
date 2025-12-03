@@ -20,13 +20,13 @@ $courselist = array(
   "geburtsvorbereitung" => initCourse('Geburtsvorbereitung', 'Geburtsvorbereitung'),  
   "babymassage"  => initCourse('Babymassage', 'Babymassage'),
   "akupunktur" => initCourse('Akupunktur', 'Akupunktur'),
-  "notfallkurs" => initCourse('Baby- und Kindernotfallkurs', 'Kindernotfallkurs'),
+  //"notfallkurs" => initCourse('Baby- und Kindernotfallkurs', 'Kindernotfallkurs'),
   "mamaworkoutbauch"=> initCourse('Mamaworkout Prenatal', 'Mamaworkout prenatal'),
   "mamaworkoutindoor" => initCourse('Funktionelles Mamaworkout indoor', 'Mamaworkout indoor'),
   "mamaworkout" => initCourse('Mamaworkout Outdoor', 'Mamaworkout outdoor'),  
   "sportkurs" => initCourse('Mom & Fitness - Das Bodyworkout', 'Mom & Fitness'),    
-  "yoga" => initCourse('Yoga Flow für Schwangere', 'Yoga Flow für Schwangere'),
-  "yogaMitKind" => initCourse('Yoga Flow mit Baby möglich', 'Yoga Flow mit Baby möglich'),  
+  //"yoga" => initCourse('Yoga Flow für Schwangere', 'Yoga Flow für Schwangere'),
+  //"yogaMitKind" => initCourse('Yoga Flow mit Baby möglich', 'Yoga Flow mit Baby möglich'),  
   //"bodyandsoul" => initCourse('Body and Soul', 'Body and Soul'),  
   "weitere" => initCourse('Weitere Kurse', '')
 );
@@ -205,6 +205,7 @@ include 'templates/head.php';
 
 </body>
 </html>
+
 
 
 
