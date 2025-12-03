@@ -19,16 +19,14 @@ $courselist = array(
   "rueckbildung" => initCourse('Rückbildungskurse', 'Rückbildung'),
   "geburtsvorbereitung" => initCourse('Geburtsvorbereitung', 'Geburtsvorbereitung'),  
   "babymassage"  => initCourse('Babymassage', 'Babymassage'),
-  "akupunktur" => initCourse('Akupunktur', 'Akupunktur'),
-  //"notfallkurs" => initCourse('Baby- und Kindernotfallkurs', 'Kindernotfallkurs'),
+  "akupunktur" => initCourse('Akupunktur', 'Akupunktur'),  
   "mamaworkoutbauch"=> initCourse('Mamaworkout Prenatal', 'Mamaworkout prenatal'),
   "mamaworkoutindoor" => initCourse('Funktionelles Mamaworkout indoor', 'Mamaworkout indoor'),
   "mamaworkout" => initCourse('Mamaworkout Outdoor', 'Mamaworkout outdoor'),  
   "sportkurs" => initCourse('Mom & Fitness - Das Bodyworkout', 'Mom & Fitness'),    
-  //"yoga" => initCourse('Yoga Flow für Schwangere', 'Yoga Flow für Schwangere'),
-  //"yogaMitKind" => initCourse('Yoga Flow mit Baby möglich', 'Yoga Flow mit Baby möglich'),  
-  //"bodyandsoul" => initCourse('Body and Soul', 'Body and Soul'),  
-  "weitere" => initCourse('Weitere Kurse', '')
+  "yoga" => initCourse('Yoga Flow für Schwangere', 'Yoga Flow für Schwangere'),
+  "yogaMitKind" => initCourse('Yoga Flow mit Baby möglich', 'Yoga Flow mit Baby möglich'),  
+  "weitere" => initCourse('Weitere Kurse', '')  
 );
 
 function customYogaCourse($num_dates, $start_date, $end_date, $time_start, $time_end) {
@@ -205,6 +203,7 @@ include 'templates/head.php';
 
 </body>
 </html>
+
 
 
 
