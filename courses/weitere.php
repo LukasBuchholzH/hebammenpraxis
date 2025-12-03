@@ -45,7 +45,7 @@ Im Onlinekurs mache ich die Übungen sehr detailgetreu vor, der Inhalt ist anson
 <div style="margin-right: 12px; margin-top: 32px;"><a href="https://anjajaburek.de" class="btn">Zur Anmeldung</a></div>
 
 
-
+<!--
 <h2>Yoga Flow für Schwangere</h2>
 <p>
     Besonders schwangere Frauen können von Yoga profitieren. 
@@ -85,7 +85,7 @@ Im Onlinekurs mache ich die Übungen sehr detailgetreu vor, der Inhalt ist anson
 <div style="margin-right: 12px; margin-top: 32px;"><a href="https://www.momoyoga.com/mahila/register" class="btn">Zur Anmeldung</a></div>
 <p>Um Deinen Platz zu reservieren, wähle nach der Registrierung auf momoyoga deinen Event aus und klicke auf "hol dir ein Ticket". Eine Stornierung und Rückerstattung des gezahlten Tickets ist selbstverständlich möglich.</p>
 
-
+-->
 
 <h2>Trage-Workshop</h2>
 <p>
@@ -102,6 +102,7 @@ Mein Name ist Lara Holldorf, ich bin zertifizierte Trageberaterin (Fachkraft fü
 <div>Kurskosten: 40€ pro Familie</div>
 
 <div style="margin-right: 12px; margin-top: 32px;"><a href="https://trageberatung-weinheim.de/" class="btn">Zur Anmeldung</a></div>
+
 
 
 
