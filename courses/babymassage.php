@@ -21,9 +21,10 @@ Die Babymassage eignet sich ab der 6. Lebenswoche bis zum Eintritt ins Krabbelal
 </p>
 
 <p>
-Die Babymassage beinhaltet: Massage gegen Blähungen und Koliken, Ganzkörpermassage für Babys , mit dem Kind kommunizieren, den Bindungsprozess stärken, ein Skript nach jeder Stunde. 
+Die Babymassage beinhaltet: Massage gegen Blähungen und Koliken, Ganzkörpermassage für Babys , mit dem Kind kommunizieren und den Bindungsprozess stärken. 
 </p>
 
 <p>
-Du hast als Papa auch Interesse an der Babymassage? Schau gerne bei den Terminen der Papaedition vorbei. Sollte die Termine nicht passen, ist auch eine Teilnahme in der regulären Babymassage möglich.
+Du hast als Papa auch Interesse an der Babymassage? Melde dich gerne an. Der Kurs ist auch für Papa's möglich.
 </p>
+
