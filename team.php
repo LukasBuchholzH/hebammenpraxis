@@ -118,8 +118,8 @@ include 'templates/head.php';
           <li>2018 staatl. geprüfte Hebamme (Speyer)</li>
           <li>2020 Bachelor of Science (B.Sc.) Hebammenwesen</li>
           <li>2018-2021 angestellte Hebamme (St. Hedwig Klinik und St. Marienkrankenhaus Ludwigshafen am Rhein)</li>
+          <li>2023-2025 Beleghebamme im Kreißsaal GRN-Schwetzingen</li>
           <li>Seither ausschließlich selbstständig tätig</li>
-          <li>Seit 2023 Beleghebamme im Kreißsaal GRN-Schwetzingen</li>
         </ul>
       </div>
 
