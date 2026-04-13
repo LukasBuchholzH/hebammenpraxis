@@ -38,7 +38,8 @@ Ein ausführliches Handout erhaltet ihr nach dem Kurs.
 Im Onlinekurs mache ich die Übungen sehr detailgetreu vor, der Inhalt ist ansonsten der Gleiche. 
 </p>
 
-<p>Kurskosten: 55€ pro Person und 100€ für Paare</p>
+<p>Kurskosten: 65€ pro Person und 110€ für Paare</p>
+<p>Dauer: 3 Stunden</p>
 
 <p>Kursleitung: Anja Jaburek, Kinderkrankenschwester an der Universitätsmedizin Mannheim, Erste Hilfe Ausbilderin, BG zertifiziert.</p>
 
