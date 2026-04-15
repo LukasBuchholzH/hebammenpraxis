@@ -2,10 +2,10 @@
 Insgesamt sind es 8 Termine, jeweils für 60 Minuten.
 <ul>
     
-<li>▸ empfohlen für Babys ab 6 Wochen bis 12 Monate</li>
-<li>▸ Rückbildung & gezielter Muskelaufbau</li>
-<li>▸ mehr Energie und Kraft im Mama / Papa- Alltag</li>
-<li>▸ Dein Baby ist dabei - Bonding inklusive</li>
+<li> empfohlen für Babys ab 6 Wochen bis 12 Monate</li>
+<li> Rückbildung & gezielter Muskelaufbau</li>
+<li> mehr Energie und Kraft im Mama / Papa- Alltag</li>
+<li> Dein Baby ist dabei - Bonding inklusive</li>
 
 </ul>
 </p>
