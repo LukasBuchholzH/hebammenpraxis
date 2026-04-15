@@ -1,9 +1,16 @@
 <p>
-    Du wirst kraft und Erholung tanken. 
-    Die Kleinen können bei euch liegen, mitmachen, spielen oder schlafen.
-    Dein Baby sollte noch nicht laufen können.
-    Wenn du magst, kannst du dich mit anderen Mamas vernetzen.
-    Ein zuvor abgeschlossener Rückbildungskurs ist von Vorteil.
+Insgesamt sind es 8 Termine, jeweils für 60 Minuten.
+<ul>
+    
+<li>▸ empfohlen für Babys ab 6 Wochen bis 12 Monate</li>
+<li>▸ Rückbildung & gezielter Muskelaufbau</li>
+<li>▸ mehr Energie und Kraft im Mama / Papa- Alltag</li>
+<li>▸ Dein Baby ist dabei - Bonding inklusive</li>
+
+</ul>
+</p>
+<p>
+    Ivonne ist 500h+ zertifizierte Yogalehrerin und der Kurs wurde nach § 20 Abs. 1 SGB V von der Zentrale Prüfstelle Prävention geprüft. Je nach Krankenkasse kannst du dir bis zu 100% der Kursgebühr von deiner gesetzlichen Krankenkasse erstatten lassen - und das bis zu 2 x pro Jahr!
 </p>
 
 <div>Kursleitung: Ivonne Scharff</div>
