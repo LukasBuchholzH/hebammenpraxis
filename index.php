@@ -11,7 +11,7 @@ include 'templates/head.php';
   <section>
     <a href="team<?= $suffix ?>"><img src="img/team.webp" width="100%"></a>
 
-    <a id="team-link" href="team<?= $suffix ?>"><h1><nobr>Julia Gauweiler</nobr> · <nobr>Katharina Piwecki</nobr> · <nobr>Birgit Fremter</nobr> · <nobr>Maria Winkler</nobr></h1></a>
+    <a id="team-link" href="team<?= $suffix ?>"><h1><nobr>Julia Gauweiler</nobr> · <nobr>Katharina Brunner</nobr> · <nobr>Birgit Fremter</nobr> · <nobr>Maria Winkler</nobr></h1></a>
   </section>
 
   <section class="landing row">
