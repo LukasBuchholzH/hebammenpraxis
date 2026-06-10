@@ -1,6 +1,6 @@
 <?php
 $title = 'Hebammenpraxis Oststadt';
-$description = 'Wir sind das Team der Hebammenpraxis Oststadt, Birgit Fremter, Julia Gauweiler, Katharina Piwecki und Maria Winkler.';
+$description = 'Wir sind das Team der Hebammenpraxis Oststadt, Birgit Fremter, Julia Gauweiler, Katharina Brunner und Maria Winkler.';
 include 'templates/head.php';
 ?>
 
@@ -107,9 +107,9 @@ include 'templates/head.php';
       <!-- KATHARINA -->
       <div id="profile-header-3">
         <div class="image-container">
-          <img src="img/katharina-profile-circle.webp" alt="Profilbild von Katharina Piwecki">
+          <img src="img/katharina-profile-circle.webp" alt="Profilbild von Katharina Brunner">
         </div>
-        <h3 class="profile-heading">Katharina Piwecki</h3>
+        <h3 class="profile-heading">Katharina Brunner</h3>
       </div>
 
       <div id="profile-cv-3">
