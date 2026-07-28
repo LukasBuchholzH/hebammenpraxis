@@ -167,11 +167,7 @@ Im Kommentarfeld der Anmeldung bitten wir um eine kurze Beschreibung des Anliege
         <li> Welche Lebensmittel sind im ersten Lebensjahr ungeeignet?</li>
       </ul>
     </p>
-
-    <p>
-      Jede Frau hat die Möglichkeit im Rahmen der Hebammenbegleitung ein Termin für ein Beikostgespräch zu vereinbaren. 
-      Zudem gibt es die Möglichkeit den Kurs "B(r)eikost" in der Hebammenpraxis Oststadt als Zusatzleistung zu besuchen.
-    </p>   
+  
   </section>
 
   <section id="leistung-zusatz">
