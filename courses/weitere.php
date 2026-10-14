@@ -12,7 +12,7 @@ Dabei geht es unter anderem um Themen wie Atemnot, Verschlucken von Fremdkörper
 
 <p> <a href="img/Flyer_Erste-Hilfe_Kurs_2027.pdf" target="_blank">Mehr Informationen hierzu im Flyer</a></p>
 
-<p>Termine für den Erste Hilfe Kurs 2027</p>
+<b>Termine für den Erste Hilfe Kurs 2027</b>
 <p>Sonntags von 10.00 bis 14.00 Uhr.</p>
 
 <ul> 
