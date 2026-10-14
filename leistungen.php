@@ -33,7 +33,7 @@ Themen können unter anderem sein: Schwangerschaftsbeschwerden wie Übelkeit, Wa
 Die Sprechstunde kann als Kassenleistung (bei bestehender Versicherung) und als Privatleistung in Anspruch genommen werden.
 Für euer Anliegen, können wir uns eine Stunde Zeit nehmen.</p> 
 <p>
-Terminvereinbarung <a href="https://hebammenpraxisoststadt.hebamio.de/termine">„Hier“</a>
+Terminvereinbarung <a href="https://hebammenpraxisoststadt.hebamio.de/termine" target="_blank">„Hier“</a>
 </p> 
 <p>
 Im Kommentarfeld der Anmeldung bitten wir um eine kurze Beschreibung des Anliegens.
@@ -86,9 +86,9 @@ Im Kommentarfeld der Anmeldung bitten wir um eine kurze Beschreibung des Anliege
     <h4>So funktionierts:</h4>  
     
     <p>Die Vorsorgeuntersuchungen erfolgen an zwei nah beieinanderliegenden Standorten. Bitte nutzen Sie die bereitgestellten QR-Codes auf dem Flyer oder die untenstehenden Links, um einen Termin für die Vorsorge bei Fr. Lauinger-Lörsch oder bei den Hebammen der Hebammenpraxis Oststadt zu vereinbaren:</p>
-    <p><a href="https://hebammenpraxisoststadt.hebamio.de/termine">Hebammenpraxis</a></p>
-    <p><a href="https://www.gynplus-mannheim.de/schwangerenbetreuung/">Frauenarztpraxis</a></p>
-    <p> <a href="img/Flyer Vorsorge.pdf">Flyer</a></p>
+    <p><a href="https://hebammenpraxisoststadt.hebamio.de/termine" target="_blank">Hebammenpraxis</a></p>
+    <p><a href="https://www.gynplus-mannheim.de/schwangerenbetreuung/" target="_blank">Frauenarztpraxis</a></p>
+    <p> <a href="img/Flyer Vorsorge.pdf" target="_blank">Flyer</a></p>
     <p>Sie haben Interesse an einer interdisziplinären Schwangerenvorsorge und werden derzeit von einem anderen Frauenarzt oder einer anderen Frauenärztin betreut. Bitte sprechen Sie Ihren behandelnden Arzt oder Ihre behandelnde Ärztin darauf an, ob ebenfalls eine gemeinsame Durchführung der Vorsorgeuntersuchungen möglich ist.</p>
 
     <h3 id="beschwerden">Hilfe bei Schwangeschaftsbeschwerden</h3>
