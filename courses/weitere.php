@@ -1,52 +1,35 @@
-<h2>Baby- und Kindernotfallkurs</h2>
+<h2>Erste Hilfe am Kind</h2>
 <p>
-Babys und Kleinkinder haben noch kein Gefahrenbewusstsein. 
-Jeder Tag ist ein Abenteuer. 
-Es gibt so viel zu entdecken und zu lernen. 
-Und natürlich passieren dabei auch kleinere und größere Unfälle. 
-Welche Unfälle du verhindern kannst, und wie du hilfst, wenn es doch passiert ist, das lernst du in diesem Kurs. 
+Ich bin Gesundheits- und Kinderkrankenpflegerin mit langjähriger Erfahrung in der Intensiv- und Anästhesiepflege von Früh- und Neugeborenen, sowie Kindern aller Altersstufen.
+Nach vielen Jahren in Kliniken und Spezialbereichen habe ich mich nebenberuflich als Notfalltrainerin selbstständig gemacht. 
+In diesem Rahmen biete ich Eltern-Crashkurse zum Thema „Erste Hilfe am Kind“ an.
+</p>
+  
+<p>
+In 4 Stunden lernen (zukünftige) Eltern und alle Interessierten, wie sie bei Säuglingen und Kindern in Notfällen sicher und richtig handeln können – mit leicht verständlicher Theorie, anschaulichen Beispielen aus dem Alltag mit Kindern und vielen praktischen Übungen. 
+Dabei geht es unter anderem um Themen wie Atemnot, Verschlucken von Fremdkörpern, Bewusstlosigkeit, Herz- Lungen- Wiederbelebung, Verbrennungen und vieles mehr.
 </p>
 
-<p>
-In 3 Stunden besprechen wir in kleiner Runde die häufigsten Notfälle im Säuglings- und Kleinkindalter, sodass du nach dem Kurs das Gefühl hast, mit Sicherheit helfen zu können. 
-Es können gerne auch Oma, Opa und der Babysitter teilnehmen. 
-Denn im Notfall sollte jeder wissen, was zu tun ist.
-</p>
+<p> <a href="img/Flyer_Erste-Hilfe_Kurs_2027.pdf">Mehr Informationen hierzu im Flyer</a></p>
 
-<p>
-  Die Themen des Kurses sind: 
-  <ul>
-    <li>Fieberkrampf</li>
-    <li>Pseudokrupp</li>
-    <li>Bewusstlosigkeit</li> 
-    <li>Stabile Seitenlage</li>
-    <li>Wiederbelebung</li>
-    <li>Plötzlicher Kindstod</li>
-    <li>Verschluckter Fremdkörper</li>
-    <li>Vergiftung</li>
-    <li>Kopfverletzungen</li>
-    <li>Verbrennungen</li>
-    <li>Insektenstiche</li>
-    <li>Ertrinken</li>
-    <li>Hausapotheke für Kinder</li>
-  </ul>
-</p>
+<p>Termine für den Erste Hilfe Kurs 2027</p>
+<p>Jeweils Sonntags von 10.00 bis 14.00 Uhr.</p>
 
-<p>
-Selbstverständlich üben wir an Simulationspuppen. 
-Ein ausführliches Handout erhaltet ihr nach dem Kurs. 
-Im Onlinekurs mache ich die Übungen sehr detailgetreu vor, der Inhalt ist ansonsten der Gleiche. 
-</p>
+<ul> 
+  <li>31.01.27 </li>
+  <li>31.03.27</li>
+  <li>13.06.27</li>
+  <li>12.09.27</li>
+  <li>28.11.27</li> 
+</ul>
 
-<p>Kurskosten: 65€ pro Person und 110€ für Paare</p>
-<p>Dauer: 3 Stunden</p>
+<div>Kursleitung: Nicole Krieger</div>
+<div>Dauer:4 Stunden</div>
+<div>Kursort: Hebammenpraxis Oststadt</div>
+<div>Kurskosten: 70€ pro Person und 125€ für Paare</div>
 
-<p>Kursleitung: Anja Jaburek, Kinderkrankenschwester an der Universitätsmedizin Mannheim, Erste Hilfe Ausbilderin, BG zertifiziert.</p>
+<div style="margin-right: 12px; margin-top: 32px;"><a href="mailto:[n_krieger@t-online.de]?subjekt=Anmeldung%zum%Erste%Hilfe%Kurs" class="btn">Zur Anmeldung per E-Mail</a></div>
 
-<div style="margin-right: 12px; margin-top: 32px;"><a href="https://anjajaburek.de" class="btn">Zur Anmeldung</a></div>
-
-
-<!--
 <h2>Yoga Flow für Schwangere</h2>
 <p>
     Besonders schwangere Frauen können von Yoga profitieren. 
@@ -86,7 +69,6 @@ Im Onlinekurs mache ich die Übungen sehr detailgetreu vor, der Inhalt ist anson
 <div style="margin-right: 12px; margin-top: 32px;"><a href="https://www.momoyoga.com/mahila/register" class="btn">Zur Anmeldung</a></div>
 <p>Um Deinen Platz zu reservieren, wähle nach der Registrierung auf momoyoga deinen Event aus und klicke auf "hol dir ein Ticket". Eine Stornierung und Rückerstattung des gezahlten Tickets ist selbstverständlich möglich.</p>
 
--->
 
 <h2>Trage-Workshop</h2>
 <p>
