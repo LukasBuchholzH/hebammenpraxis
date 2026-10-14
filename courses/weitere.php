@@ -16,10 +16,14 @@ Dabei geht es unter anderem um Themen wie Atemnot, Verschlucken von Fremdkörper
 <p>Jeweils Sonntags von 10.00 bis 14.00 Uhr.</p>
 
 <ul> 
-  <li>31.01.27 </li>
+  <li>31.01.27</li>
+  
   <li>31.03.27</li>
+  
   <li>13.06.27</li>
+  
   <li>12.09.27</li>
+  
   <li>28.11.27</li> 
 </ul>
 
