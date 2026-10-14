@@ -10,7 +10,7 @@ In 4 Stunden lernen (zukünftige) Eltern und alle Interessierten, wie sie bei S�
 Dabei geht es unter anderem um Themen wie Atemnot, Verschlucken von Fremdkörpern, Bewusstlosigkeit, Herz- Lungen- Wiederbelebung, Verbrennungen und vieles mehr.
 </p>
 
-<p> <a href="img/Flyer_Erste-Hilfe_Kurs_2027.pdf">Mehr Informationen hierzu im Flyer</a></p>
+<p> <a href="img/Flyer_Erste-Hilfe_Kurs_2027.pdf" target="_blank">Mehr Informationen hierzu im Flyer</a></p>
 
 <p>Termine für den Erste Hilfe Kurs 2027</p>
 <p>Jeweils Sonntags von 10.00 bis 14.00 Uhr.</p>
@@ -28,7 +28,7 @@ Dabei geht es unter anderem um Themen wie Atemnot, Verschlucken von Fremdkörper
 <div>Kursort: Hebammenpraxis Oststadt</div>
 <div>Kurskosten: 70€ pro Person und 125€ für Paare</div>
 
-<div style="margin-right: 12px; margin-top: 32px;"><a href="mailto:[n_krieger@t-online.de]?subjekt=Anmeldung%zum%Erste%Hilfe%Kurs" class="btn">Zur Anmeldung per E-Mail</a></div>
+<div style="margin-right: 12px; margin-top: 32px;"><a href="mailto:n_krieger@t-online.de" class="btn">Zur Anmeldung per E-Mail</a></div>
 
 <h2>Yoga Flow für Schwangere</h2>
 <p>
