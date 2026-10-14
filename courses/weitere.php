@@ -13,22 +13,22 @@ Dabei geht es unter anderem um Themen wie Atemnot, Verschlucken von Fremdkörper
 <p> <a href="img/Flyer_Erste-Hilfe_Kurs_2027.pdf" target="_blank">Mehr Informationen hierzu im Flyer</a></p>
 
 <p>Termine für den Erste Hilfe Kurs 2027</p>
-<p>Jeweils Sonntags von 10.00 bis 14.00 Uhr.</p>
+<p>Sonntags von 10.00 bis 14.00 Uhr.</p>
 
 <ul> 
   <li>31.01.27</li>
-  
+  </br>
   <li>31.03.27</li>
-  
+  </br>
   <li>13.06.27</li>
-  
+  </br>
   <li>12.09.27</li>
-  
+  </br>
   <li>28.11.27</li> 
 </ul>
 
 <div>Kursleitung: Nicole Krieger</div>
-<div>Dauer:4 Stunden</div>
+<div>Dauer: 4 Stunden</div>
 <div>Kursort: Hebammenpraxis Oststadt</div>
 <div>Kurskosten: 70€ pro Person und 125€ für Paare</div>
 
