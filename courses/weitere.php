@@ -11,7 +11,8 @@ Dabei geht es unter anderem um Themen wie Atemnot, Verschlucken von Fremdkörper
 </p>
 
 <p> <a href="img/Flyer_Erste-Hilfe_Kurs_2027.pdf" target="_blank">Mehr Informationen hierzu im Flyer</a></p>
-
+<b>Termine für den Erste Hilfe Kurs 2026</b>
+<ul><li>25.10.2026</li></br><li>06.12.2026</li></ul>
 <b>Termine für den Erste Hilfe Kurs 2027</b>
 <p>Sonntags von 10.00 bis 14.00 Uhr.</p>
 
@@ -33,7 +34,7 @@ Dabei geht es unter anderem um Themen wie Atemnot, Verschlucken von Fremdkörper
 <div>Kurskosten: 70€ pro Person und 125€ für Paare</div>
 
 <div style="margin-right: 12px; margin-top: 32px;"><a href="mailto:n_krieger@t-online.de" class="btn">Zur Anmeldung per E-Mail</a></div>
-
+<!--
 <h2>Yoga Flow für Schwangere</h2>
 <p>
     Besonders schwangere Frauen können von Yoga profitieren. 
@@ -72,7 +73,7 @@ Dabei geht es unter anderem um Themen wie Atemnot, Verschlucken von Fremdkörper
 
 <div style="margin-right: 12px; margin-top: 32px;"><a href="https://www.momoyoga.com/mahila/register" class="btn">Zur Anmeldung</a></div>
 <p>Um Deinen Platz zu reservieren, wähle nach der Registrierung auf momoyoga deinen Event aus und klicke auf "hol dir ein Ticket". Eine Stornierung und Rückerstattung des gezahlten Tickets ist selbstverständlich möglich.</p>
-
+-->
 
 <h2>Trage-Workshop</h2>
 <p>
