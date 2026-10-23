@@ -25,7 +25,7 @@ $courselist = array(
   "mamaworkout" => initCourse('Mamaworkout Outdoor', 'Mamaworkout outdoor'),  
   "sportkurs" => initCourse('Mom & Fitness - Das Bodyworkout', 'Mom & Fitness'),    
   "yoga" => initCourse('Yoga Flow für Schwangere', 'Yoga Flow für Schwangere'),
-  "yogaMitKind" => initCourse('Yoga Flow mit Baby möglich', 'Yoga Flow mit Baby möglich'),  
+  //"yogaMitKind" => initCourse('Yoga Flow mit Baby möglich', 'Yoga Flow mit Baby möglich'),  
   "weitere" => initCourse('Weitere Kurse', '')  
 );
 
