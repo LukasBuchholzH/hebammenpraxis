@@ -5,7 +5,7 @@ function lesserStartDate($c1, $c2) {
 }
 
 function makeSignupUrl($courseid, $hebamioid) { 
-  $url = 'https://hebammenpraxisoststadt.hebamio.de/anmeldung?reason=course-' . $hebamioid;
+  $url = 'https://hebammenpraxisoststadt.hebamio.de/v2/anmeldung?reason=course-' . $hebamioid;
   return $url;
 }
 
