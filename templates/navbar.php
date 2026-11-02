@@ -56,8 +56,8 @@
           <li><a href="courses<?= $suffix ?>#mamaworkoutindoor">Funktionelles Mamaworkout indoor</a></li>
           <li><a href="courses<?= $suffix ?>#mamaworkout">Mamaworkout Outdoor</a></li>
           <li><a href="courses<?= $suffix ?>#sportkurs">Mom & Fitness - Das Bodyworkout</a></li> 
-          <li><a href="courses<?= $suffix ?>#yoga">Hatha Yoga Flow für Schwangere</a></li>
-          <li><a href="courses<?= $suffix ?>#yogaMitKind">Yoga mit Kind</a></li>
+          <li><a href="courses<?= $suffix ?>#yoga">Yoga Flow für Schwangere</a></li>
+         <!-- <li><a href="courses<?= $suffix ?>#yogaMitKind">Yoga mit Kind</a></li>-->
           <li><a href="courses<?= $suffix ?>#weitere">Weitere Kurse</a></li>
         </ul>
       </li>
