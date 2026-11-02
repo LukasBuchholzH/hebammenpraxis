@@ -16,4 +16,4 @@ Insgesamt sind es 8 Termine, jeweils für 60 Minuten.
 <div>Kursleitung: Ivonne Scharff</div>
 <div>Kursort: Hebammenpraxis Oststadt</div>
 <div>Kurskosten: 160€ - Die Erstattung über die Krankenkasse erfolgt nach Kursende. </div>
-<div style="margin-right: 12px; margin-top: 32px;"><a href="https://sites.google.com/view/yogatimemannheim/startseite" class="btn">Zur Anmeldung</a></div>
+<div style="margin-right: 12px; margin-top: 32px;"><a href="https://sites.google.com/view/yogatimemannheim/kurstermine" class="btn">Zur Anmeldung</a></div>
